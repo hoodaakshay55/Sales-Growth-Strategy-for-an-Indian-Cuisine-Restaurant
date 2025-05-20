@@ -1,0 +1,825 @@
+Order_ID,Date,Day,Customer_Type,Item_Category,Item_Name,Quantity,Price_Per_Unit,Total_Amount,Payment_Mode,Home_Delivery,Customer_Rating,Feedback_Comment,Month,Year,Weekday
+ORD0001,16-02-2025,Sunday,Returning,South Indian,Idli Sambar,1,238,238,Card,Yes,5,Very Good,February,2025,Sunday
+ORD0002,20-02-2025,Thursday,New,North Indian,Paneer Butter Masala,2,224,448,UPI,No,2,Very Good,February,2025,Thursday
+ORD0003,23-03-2025,Sunday,Returning,Desserts,Rasgulla,3,116,349,Card,No,5,Very Good,March,2025,Sunday
+ORD0008,27-11-2024,Wednesday,Returning,Chinese,Spring Roll,1,250,250,UPI,Yes,1,Good,November,2024,Wednesday
+ORD0009,08-03-2025,Saturday,Returning,Desserts,Gulab Jamun,1,114,114,Cash,No,3,Okay,March,2025,Saturday
+ORD0010,31-03-2025,Monday,New,Beverages,Lassi,4,152,609,Cash,Yes,4,Excellent,March,2025,Monday
+ORD0011,24-03-2025,Monday,Returning,North Indian,Paneer Butter Masala,3,280,841,UPI,No,2,Good,March,2025,Monday
+ORD0012,03-04-2025,Thursday,New,South Indian,Vada,1,148,148,Cash,Yes,1,Good,April,2025,Thursday
+ORD0013,02-12-2024,Monday,Returning,Chinese,Veg Noodles,2,251,502,Card,Yes,3,Okay,December,2024,Monday
+ORD0014,21-02-2025,Friday,Returning,Beverages,Masala Chai,2,76,152,UPI,Yes,4,Good,February,2025,Friday
+ORD0015,18-11-2024,Monday,Returning,Desserts,Kheer,5,293,1468,Cash,Yes,1,Okay,November,2024,Monday
+ORD0016,23-03-2025,Sunday,New,Beverages,Cold Drink,1,203,203,UPI,Yes,1,Okay,March,2025,Sunday
+ORD0017,27-02-2025,Thursday,Returning,Beverages,Lassi,1,50,50,Cash,No,3,Excellent,February,2025,Thursday
+ORD0018,01-04-2025,Tuesday,Returning,Desserts,Rasgulla,5,230,1152,UPI,No,4,Bad,April,2025,Tuesday
+ORD0019,15-10-2024,Tuesday,New,Beverages,Masala Chai,5,69,348,Card,Yes,2,Excellent,October,2024,Tuesday
+ORD0021,18-01-2025,Saturday,New,Desserts,Kheer,5,169,847,Card,No,4,Good,January,2025,Saturday
+ORD0023,14-01-2025,Tuesday,Returning,Desserts,Gulab Jamun,1,233,233,Cash,Yes,4,Bad,January,2025,Tuesday
+ORD0024,24-03-2025,Monday,New,Beverages,Masala Chai,3,230,691,UPI,Yes,3,Very Good,March,2025,Monday
+ORD0025,06-02-2025,Thursday,Returning,North Indian,Paneer Butter Masala,2,170,340,Card,Yes,4,Okay,February,2025,Thursday
+ORD0026,22-12-2024,Sunday,New,South Indian,Masala Dosa,4,176,705,Cash,Yes,1,Excellent,December,2024,Sunday
+ORD0028,12-12-2024,Thursday,Returning,Beverages,Masala Chai,5,174,874,Cash,Yes,2,Very Good,December,2024,Thursday
+ORD0029,29-12-2024,Sunday,Returning,Chinese,Manchurian,4,75,301,UPI,No,1,Good,December,2024,Sunday
+ORD0030,11-10-2024,Friday,Returning,North Indian,Chole Bhature,1,163,163,Cash,No,5,Good,October,2024,Friday
+ORD0031,20-02-2025,Thursday,New,Desserts,Ice Cream,1,154,154,Cash,No,5,Bad,February,2025,Thursday
+ORD0032,18-03-2025,Tuesday,Returning,Chinese,Fried Rice,3,56,168,Cash,No,2,Okay,March,2025,Tuesday
+ORD0033,08-03-2025,Saturday,Returning,South Indian,Vada,4,79,319,Card,Yes,4,Very Good,March,2025,Saturday
+ORD0034,14-12-2024,Saturday,New,Chinese,Spring Roll,3,282,846,Cash,Yes,3,Good,December,2024,Saturday
+ORD0035,21-11-2024,Thursday,Returning,Desserts,Gulab Jamun,2,57,115,Cash,No,2,Excellent,November,2024,Thursday
+ORD0036,14-01-2025,Tuesday,New,North Indian,Paneer Butter Masala,1,81,81,Card,No,1,Excellent,January,2025,Tuesday
+ORD0038,12-03-2025,Wednesday,New,Desserts,Ice Cream,5,167,836,UPI,No,5,Good,March,2025,Wednesday
+ORD0040,25-10-2024,Friday,Returning,South Indian,Vada,2,289,579,UPI,No,4,Okay,October,2024,Friday
+ORD0041,16-12-2024,Monday,New,Beverages,Coffee,5,220,1103,Card,No,2,Excellent,December,2024,Monday
+ORD0042,05-11-2024,Tuesday,New,North Indian,Butter Naan,5,51,256,Card,Yes,4,Excellent,November,2024,Tuesday
+ORD0043,02-11-2024,Saturday,Returning,North Indian,Chole Bhature,3,135,407,Card,No,3,Bad,November,2024,Saturday
+ORD0045,15-03-2025,Saturday,New,Desserts,Ice Cream,4,191,766,UPI,No,1,Okay,March,2025,Saturday
+ORD0047,11-01-2025,Saturday,New,North Indian,Butter Naan,2,219,438,UPI,No,2,Bad,January,2025,Saturday
+ORD0048,22-02-2025,Saturday,Returning,South Indian,Masala Dosa,1,138,138,UPI,No,5,Good,February,2025,Saturday
+ORD0049,26-12-2024,Thursday,New,Beverages,Cold Drink,4,292,1171,Card,Yes,5,Very Good,December,2024,Thursday
+ORD0050,17-03-2025,Monday,New,North Indian,Dal Makhani,5,189,949,Card,Yes,3,Very Good,March,2025,Monday
+ORD0051,02-02-2025,Sunday,Returning,South Indian,Idli Sambar,1,121,121,Cash,Yes,5,Bad,February,2025,Sunday
+ORD0054,19-01-2025,Sunday,New,Chinese,Manchurian,4,161,646,UPI,No,1,Good,January,2025,Sunday
+ORD0055,14-02-2025,Friday,Returning,North Indian,Paneer Butter Masala,5,262,1312,Cash,Yes,1,Good,February,2025,Friday
+ORD0057,19-01-2025,Sunday,New,South Indian,Uttapam,3,51,155,UPI,No,4,Very Good,January,2025,Sunday
+ORD0058,22-11-2024,Friday,Returning,North Indian,Paneer Butter Masala,4,205,820,Cash,Yes,3,Bad,November,2024,Friday
+ORD0059,28-12-2024,Saturday,Returning,Beverages,Lassi,2,271,542,Card,Yes,1,Excellent,December,2024,Saturday
+ORD0060,13-12-2024,Friday,New,Desserts,Ice Cream,2,215,431,UPI,No,3,Good,December,2024,Friday
+ORD0061,21-03-2025,Friday,Returning,South Indian,Idli Sambar,2,61,122,Cash,No,1,Excellent,March,2025,Friday
+ORD0062,26-01-2025,Sunday,Returning,South Indian,Uttapam,4,95,380,Cash,Yes,5,Very Good,January,2025,Sunday
+ORD0063,29-11-2024,Friday,Returning,North Indian,Butter Naan,2,196,392,Card,Yes,4,Okay,November,2024,Friday
+ORD0064,18-03-2025,Tuesday,Returning,Chinese,Veg Noodles,4,267,1070,Cash,No,4,Very Good,March,2025,Tuesday
+ORD0065,27-03-2025,Thursday,New,South Indian,Masala Dosa,5,141,707,Cash,No,5,Excellent,March,2025,Thursday
+ORD0066,22-02-2025,Saturday,Returning,South Indian,Idli Sambar,2,174,349,Cash,Yes,3,Good,February,2025,Saturday
+ORD0069,13-10-2024,Sunday,Returning,North Indian,Paneer Butter Masala,3,185,557,Cash,No,2,Okay,October,2024,Sunday
+ORD0070,29-12-2024,Sunday,New,South Indian,Uttapam,2,238,477,Cash,No,3,Bad,December,2024,Sunday
+ORD0071,15-10-2024,Tuesday,Returning,Beverages,Lassi,4,276,1106,Cash,No,5,Very Good,October,2024,Tuesday
+ORD0072,08-01-2025,Wednesday,Returning,Desserts,Kheer,2,293,587,UPI,No,1,Bad,January,2025,Wednesday
+ORD0073,28-02-2025,Friday,New,South Indian,Masala Dosa,3,137,411,Cash,Yes,3,Excellent,February,2025,Friday
+ORD0074,27-11-2024,Wednesday,Returning,Chinese,Spring Roll,4,111,444,UPI,Yes,3,Excellent,November,2024,Wednesday
+ORD0075,07-12-2024,Saturday,New,North Indian,Paneer Butter Masala,4,273,1093,Card,No,4,Bad,December,2024,Saturday
+ORD0076,21-11-2024,Thursday,New,Desserts,Rasgulla,1,108,108,Card,No,1,Good,November,2024,Thursday
+ORD0079,14-10-2024,Monday,New,Desserts,Ice Cream,5,54,270,UPI,No,5,Good,October,2024,Monday
+ORD0080,06-01-2025,Monday,Returning,South Indian,Uttapam,3,114,344,UPI,Yes,2,Okay,January,2025,Monday
+ORD0081,22-11-2024,Friday,Returning,Desserts,Gulab Jamun,1,226,226,UPI,No,1,Okay,November,2024,Friday
+ORD0082,19-12-2024,Thursday,Returning,North Indian,Dal Makhani,3,73,220,Card,Yes,5,Bad,December,2024,Thursday
+ORD0085,16-03-2025,Sunday,Returning,Desserts,Gulab Jamun,2,168,336,Cash,Yes,2,Bad,March,2025,Sunday
+ORD0089,26-02-2025,Wednesday,New,Desserts,Gulab Jamun,2,171,342,Cash,Yes,4,Good,February,2025,Wednesday
+ORD0090,14-12-2024,Saturday,Returning,Beverages,Lassi,3,284,852,Card,Yes,1,Bad,December,2024,Saturday
+ORD0091,18-02-2025,Tuesday,New,Desserts,Rasgulla,2,83,166,Cash,Yes,3,Excellent,February,2025,Tuesday
+ORD0092,03-02-2025,Monday,New,North Indian,Dal Makhani,4,283,1133,Cash,No,4,Bad,February,2025,Monday
+ORD0093,11-10-2024,Friday,Returning,North Indian,Chole Bhature,1,100,100,Cash,No,4,Okay,October,2024,Friday
+ORD0094,19-01-2025,Sunday,New,Beverages,Masala Chai,3,292,876,Cash,Yes,3,Good,January,2025,Sunday
+ORD0096,05-03-2025,Wednesday,New,Desserts,Gulab Jamun,4,224,897,Card,Yes,5,Very Good,March,2025,Wednesday
+ORD0098,29-03-2025,Saturday,Returning,North Indian,Butter Naan,1,245,245,Cash,No,4,Excellent,March,2025,Saturday
+ORD0099,15-03-2025,Saturday,Returning,Desserts,Gulab Jamun,1,135,135,UPI,No,1,Very Good,March,2025,Saturday
+ORD0100,24-02-2025,Monday,New,North Indian,Paneer Butter Masala,3,190,571,UPI,No,5,Good,February,2025,Monday
+ORD0101,07-01-2025,Tuesday,Returning,South Indian,Uttapam,5,112,561,Card,Yes,4,Bad,January,2025,Tuesday
+ORD0102,18-02-2025,Tuesday,Returning,South Indian,Uttapam,1,151,151,Cash,No,2,Bad,February,2025,Tuesday
+ORD0104,14-12-2024,Saturday,Returning,Beverages,Coffee,1,247,247,Card,Yes,1,Good,December,2024,Saturday
+ORD0106,26-12-2024,Thursday,Returning,Beverages,Coffee,1,218,218,Card,No,3,Excellent,December,2024,Thursday
+ORD0108,02-02-2025,Sunday,Returning,Chinese,Manchurian,2,145,291,Card,No,3,Okay,February,2025,Sunday
+ORD0109,31-12-2024,Tuesday,New,Desserts,Rasgulla,3,141,425,UPI,Yes,5,Good,December,2024,Tuesday
+ORD0110,02-04-2025,Wednesday,New,North Indian,Butter Naan,1,73,73,Card,No,2,Okay,April,2025,Wednesday
+ORD0112,25-10-2024,Friday,New,Beverages,Lassi,2,176,352,Cash,No,4,Excellent,October,2024,Friday
+ORD0113,28-02-2025,Friday,Returning,Desserts,Rasgulla,2,225,450,UPI,Yes,1,Bad,February,2025,Friday
+ORD0114,20-02-2025,Thursday,New,Desserts,Kheer,2,95,191,Card,No,5,Bad,February,2025,Thursday
+ORD0115,26-02-2025,Wednesday,Returning,South Indian,Idli Sambar,3,184,554,Card,Yes,4,Okay,February,2025,Wednesday
+ORD0116,14-10-2024,Monday,Returning,Chinese,Manchurian,2,275,551,Card,No,5,Very Good,October,2024,Monday
+ORD0117,10-12-2024,Tuesday,New,Beverages,Masala Chai,2,225,451,UPI,No,4,Very Good,December,2024,Tuesday
+ORD0118,28-11-2024,Thursday,Returning,Beverages,Masala Chai,3,250,751,UPI,No,2,Good,November,2024,Thursday
+ORD0119,28-12-2024,Saturday,New,Chinese,Spring Roll,1,132,132,UPI,Yes,1,Excellent,December,2024,Saturday
+ORD0120,27-10-2024,Sunday,Returning,Chinese,Manchurian,1,290,290,Card,No,2,Very Good,October,2024,Sunday
+ORD0121,27-03-2025,Thursday,Returning,Chinese,Veg Noodles,4,299,1196,UPI,Yes,4,Good,March,2025,Thursday
+ORD0122,26-02-2025,Wednesday,Returning,Desserts,Kheer,2,277,554,UPI,No,1,Good,February,2025,Wednesday
+ORD0124,30-03-2025,Sunday,Returning,Desserts,Ice Cream,1,112,112,UPI,No,4,Excellent,March,2025,Sunday
+ORD0125,12-01-2025,Sunday,New,Chinese,Manchurian,1,161,161,Card,No,2,Okay,January,2025,Sunday
+ORD0126,03-03-2025,Monday,New,Desserts,Ice Cream,4,148,594,Cash,Yes,5,Excellent,March,2025,Monday
+ORD0127,14-12-2024,Saturday,New,Beverages,Cold Drink,4,176,705,UPI,Yes,2,Bad,December,2024,Saturday
+ORD0128,15-02-2025,Saturday,Returning,Desserts,Kheer,5,74,370,Cash,No,3,Very Good,February,2025,Saturday
+ORD0129,04-12-2024,Wednesday,New,Desserts,Rasgulla,4,59,236,UPI,No,4,Very Good,December,2024,Wednesday
+ORD0131,19-02-2025,Wednesday,Returning,South Indian,Vada,5,274,1374,Cash,No,1,Bad,February,2025,Wednesday
+ORD0132,03-01-2025,Friday,New,Desserts,Gulab Jamun,2,256,512,Cash,Yes,3,Bad,January,2025,Friday
+ORD0133,23-11-2024,Saturday,Returning,Chinese,Fried Rice,3,240,721,Card,Yes,2,Okay,November,2024,Saturday
+ORD0134,26-11-2024,Tuesday,Returning,North Indian,Paneer Butter Masala,3,119,358,Cash,Yes,4,Excellent,November,2024,Tuesday
+ORD0135,02-03-2025,Sunday,Returning,North Indian,Chole Bhature,4,131,527,Cash,No,1,Excellent,March,2025,Sunday
+ORD0136,27-02-2025,Thursday,Returning,North Indian,Paneer Butter Masala,2,60,121,UPI,Yes,1,Very Good,February,2025,Thursday
+ORD0137,21-12-2024,Saturday,Returning,North Indian,Chole Bhature,3,216,650,UPI,No,2,Very Good,December,2024,Saturday
+ORD0138,03-04-2025,Thursday,New,North Indian,Butter Naan,2,110,221,Cash,No,5,Bad,April,2025,Thursday
+ORD0139,12-11-2024,Tuesday,New,Chinese,Fried Rice,1,171,171,UPI,Yes,4,Very Good,November,2024,Tuesday
+ORD0140,30-11-2024,Saturday,Returning,Chinese,Fried Rice,5,81,408,Card,Yes,3,Good,November,2024,Saturday
+ORD0141,03-03-2025,Monday,Returning,North Indian,Paneer Butter Masala,1,209,209,Card,No,1,Excellent,March,2025,Monday
+ORD0142,21-11-2024,Thursday,New,North Indian,Paneer Butter Masala,5,273,1369,UPI,Yes,2,Very Good,November,2024,Thursday
+ORD0143,02-04-2025,Wednesday,Returning,South Indian,Idli Sambar,4,144,578,Cash,Yes,2,Bad,April,2025,Wednesday
+ORD0144,19-12-2024,Thursday,Returning,Desserts,Ice Cream,5,275,1379,UPI,Yes,1,Very Good,December,2024,Thursday
+ORD0145,05-12-2024,Thursday,Returning,North Indian,Butter Naan,1,97,97,Cash,Yes,3,Good,December,2024,Thursday
+ORD0146,08-01-2025,Wednesday,New,Chinese,Manchurian,1,220,220,Cash,No,2,Excellent,January,2025,Wednesday
+ORD0147,07-01-2025,Tuesday,New,Desserts,Kheer,4,191,766,Cash,Yes,2,Bad,January,2025,Tuesday
+ORD0148,15-01-2025,Wednesday,Returning,South Indian,Vada,4,61,247,Card,No,3,Okay,January,2025,Wednesday
+ORD0149,09-10-2024,Wednesday,Returning,Chinese,Fried Rice,3,99,297,UPI,Yes,5,Very Good,October,2024,Wednesday
+ORD0150,02-11-2024,Saturday,New,Chinese,Veg Noodles,3,255,767,UPI,Yes,5,Very Good,November,2024,Saturday
+ORD0151,19-12-2024,Thursday,New,North Indian,Butter Naan,3,214,642,UPI,No,3,Good,December,2024,Thursday
+ORD0152,18-11-2024,Monday,Returning,Desserts,Rasgulla,1,208,208,UPI,Yes,2,Okay,November,2024,Monday
+ORD0153,04-12-2024,Wednesday,New,North Indian,Chole Bhature,5,289,1446,Card,No,5,Excellent,December,2024,Wednesday
+ORD0154,20-02-2025,Thursday,Returning,Chinese,Spring Roll,1,150,150,Cash,Yes,4,Okay,February,2025,Thursday
+ORD0155,12-11-2024,Tuesday,Returning,South Indian,Idli Sambar,2,281,563,UPI,No,5,Okay,November,2024,Tuesday
+ORD0156,14-10-2024,Monday,New,Beverages,Coffee,4,205,821,Card,Yes,2,Good,October,2024,Monday
+ORD0157,17-12-2024,Tuesday,New,Desserts,Gulab Jamun,3,128,385,Cash,Yes,1,Very Good,December,2024,Tuesday
+ORD0159,08-01-2025,Wednesday,Returning,Chinese,Fried Rice,5,284,1424,Cash,Yes,2,Okay,January,2025,Wednesday
+ORD0160,11-02-2025,Tuesday,New,Beverages,Masala Chai,5,136,682,UPI,No,5,Okay,February,2025,Tuesday
+ORD0161,30-10-2024,Wednesday,New,Desserts,Kheer,1,183,183,UPI,No,5,Good,October,2024,Wednesday
+ORD0162,27-01-2025,Monday,Returning,South Indian,Uttapam,3,177,533,Card,Yes,4,Very Good,January,2025,Monday
+ORD0164,09-02-2025,Sunday,New,Desserts,Gulab Jamun,1,179,179,Card,No,1,Okay,February,2025,Sunday
+ORD0165,11-10-2024,Friday,Returning,North Indian,Chole Bhature,5,268,1343,Card,No,4,Okay,October,2024,Friday
+ORD0166,04-01-2025,Saturday,New,South Indian,Vada,4,73,295,Cash,No,2,Very Good,January,2025,Saturday
+ORD0167,12-01-2025,Sunday,Returning,South Indian,Vada,2,249,498,UPI,No,2,Good,January,2025,Sunday
+ORD0168,02-01-2025,Thursday,Returning,North Indian,Chole Bhature,1,261,261,Card,Yes,2,Very Good,January,2025,Thursday
+ORD0169,23-11-2024,Saturday,Returning,Beverages,Coffee,4,79,319,UPI,No,1,Bad,November,2024,Saturday
+ORD0170,10-12-2024,Tuesday,New,North Indian,Chole Bhature,3,246,739,Card,Yes,1,Excellent,December,2024,Tuesday
+ORD0171,14-10-2024,Monday,Returning,Chinese,Manchurian,3,57,171,Card,No,2,Excellent,October,2024,Monday
+ORD0172,17-11-2024,Sunday,Returning,Beverages,Coffee,4,290,1162,Cash,No,1,Okay,November,2024,Sunday
+ORD0173,02-11-2024,Saturday,Returning,Chinese,Fried Rice,2,134,268,UPI,No,5,Very Good,November,2024,Saturday
+ORD0174,28-02-2025,Friday,New,South Indian,Idli Sambar,4,105,420,Cash,No,5,Okay,February,2025,Friday
+ORD0176,07-01-2025,Tuesday,Returning,Chinese,Fried Rice,3,205,617,UPI,Yes,4,Bad,January,2025,Tuesday
+ORD0177,17-10-2024,Thursday,Returning,Beverages,Lassi,3,282,848,UPI,Yes,4,Good,October,2024,Thursday
+ORD0178,14-01-2025,Tuesday,New,Beverages,Lassi,2,134,269,Cash,Yes,1,Excellent,January,2025,Tuesday
+ORD0180,04-11-2024,Monday,Returning,South Indian,Vada,5,255,1278,Cash,Yes,4,Okay,November,2024,Monday
+ORD0181,13-03-2025,Thursday,New,Desserts,Rasgulla,3,262,788,Card,No,1,Very Good,March,2025,Thursday
+ORD0182,29-10-2024,Tuesday,New,North Indian,Butter Naan,1,261,261,UPI,Yes,3,Okay,October,2024,Tuesday
+ORD0183,19-11-2024,Tuesday,New,South Indian,Uttapam,5,231,1159,Card,Yes,4,Very Good,November,2024,Tuesday
+ORD0184,10-11-2024,Sunday,Returning,South Indian,Idli Sambar,1,179,179,Cash,Yes,5,Okay,November,2024,Sunday
+ORD0185,25-01-2025,Saturday,New,North Indian,Butter Naan,4,257,1028,UPI,Yes,5,Good,January,2025,Saturday
+ORD0186,21-10-2024,Monday,New,North Indian,Butter Naan,3,292,877,Card,Yes,5,Okay,October,2024,Monday
+ORD0187,14-01-2025,Tuesday,Returning,Beverages,Masala Chai,2,283,567,Cash,Yes,5,Bad,January,2025,Tuesday
+ORD0188,04-02-2025,Tuesday,New,Chinese,Manchurian,5,247,1236,Card,No,4,Good,February,2025,Tuesday
+ORD0189,08-01-2025,Wednesday,New,Chinese,Veg Noodles,4,232,930,Card,Yes,2,Bad,January,2025,Wednesday
+ORD0190,16-01-2025,Thursday,Returning,Desserts,Ice Cream,5,115,577,Cash,Yes,5,Very Good,January,2025,Thursday
+ORD0192,05-01-2025,Sunday,New,Beverages,Lassi,5,160,802,UPI,No,3,Okay,January,2025,Sunday
+ORD0195,29-12-2024,Sunday,New,Chinese,Fried Rice,1,62,62,Cash,No,3,Okay,December,2024,Sunday
+ORD0196,17-02-2025,Monday,New,South Indian,Vada,3,221,665,UPI,Yes,4,Okay,February,2025,Monday
+ORD0197,21-11-2024,Thursday,New,South Indian,Idli Sambar,1,64,64,Card,No,5,Very Good,November,2024,Thursday
+ORD0198,09-01-2025,Thursday,Returning,Beverages,Masala Chai,1,114,114,Card,Yes,4,Excellent,January,2025,Thursday
+ORD0199,01-03-2025,Saturday,New,Chinese,Fried Rice,3,271,815,Card,No,5,Very Good,March,2025,Saturday
+ORD0201,13-10-2024,Sunday,Returning,North Indian,Paneer Butter Masala,3,57,172,UPI,No,1,Excellent,October,2024,Sunday
+ORD0202,28-11-2024,Thursday,New,Beverages,Masala Chai,3,62,187,Card,Yes,3,Good,November,2024,Thursday
+ORD0203,06-01-2025,Monday,New,South Indian,Idli Sambar,5,94,471,UPI,No,5,Bad,January,2025,Monday
+ORD0204,23-01-2025,Thursday,New,South Indian,Uttapam,4,52,209,Cash,Yes,4,Excellent,January,2025,Thursday
+ORD0205,01-04-2025,Tuesday,New,Chinese,Veg Noodles,1,183,183,Cash,No,5,Bad,April,2025,Tuesday
+ORD0208,21-02-2025,Friday,New,South Indian,Idli Sambar,3,219,658,Card,Yes,5,Good,February,2025,Friday
+ORD0209,16-10-2024,Wednesday,Returning,Chinese,Veg Noodles,2,299,599,UPI,Yes,2,Good,October,2024,Wednesday
+ORD0210,30-12-2024,Monday,New,Chinese,Veg Noodles,4,50,201,Cash,No,1,Okay,December,2024,Monday
+ORD0211,07-01-2025,Tuesday,New,Beverages,Masala Chai,1,225,225,Cash,Yes,4,Good,January,2025,Tuesday
+ORD0213,13-03-2025,Thursday,New,North Indian,Butter Naan,4,165,662,Card,No,3,Bad,March,2025,Thursday
+ORD0214,04-01-2025,Saturday,Returning,North Indian,Paneer Butter Masala,3,134,403,Card,No,3,Very Good,January,2025,Saturday
+ORD0215,29-01-2025,Wednesday,New,Beverages,Coffee,3,268,804,Card,Yes,4,Excellent,January,2025,Wednesday
+ORD0216,07-02-2025,Friday,New,Chinese,Manchurian,4,195,782,Card,No,2,Okay,February,2025,Friday
+ORD0217,02-01-2025,Thursday,New,South Indian,Masala Dosa,2,251,503,UPI,Yes,3,Okay,January,2025,Thursday
+ORD0220,26-10-2024,Saturday,New,Chinese,Veg Noodles,1,195,195,Card,No,2,Bad,October,2024,Saturday
+ORD0221,05-04-2025,Saturday,New,South Indian,Uttapam,2,127,254,Card,Yes,5,Okay,April,2025,Saturday
+ORD0222,03-04-2025,Thursday,New,North Indian,Paneer Butter Masala,2,75,150,Cash,No,1,Excellent,April,2025,Thursday
+ORD0223,19-02-2025,Wednesday,New,North Indian,Chole Bhature,2,194,389,Cash,Yes,2,Very Good,February,2025,Wednesday
+ORD0225,05-02-2025,Wednesday,New,North Indian,Dal Makhani,5,225,1128,UPI,Yes,2,Bad,February,2025,Wednesday
+ORD0226,27-01-2025,Monday,Returning,Desserts,Gulab Jamun,4,202,810,Card,No,5,Excellent,January,2025,Monday
+ORD0228,23-02-2025,Sunday,New,Beverages,Masala Chai,3,148,444,Card,No,5,Bad,February,2025,Sunday
+ORD0229,15-12-2024,Sunday,Returning,Chinese,Spring Roll,2,58,116,Cash,Yes,1,Good,December,2024,Sunday
+ORD0232,26-11-2024,Tuesday,New,North Indian,Dal Makhani,2,283,566,Card,Yes,2,Very Good,November,2024,Tuesday
+ORD0233,25-12-2024,Wednesday,Returning,Desserts,Rasgulla,4,168,672,Card,Yes,5,Good,December,2024,Wednesday
+ORD0234,28-10-2024,Monday,Returning,Beverages,Coffee,5,217,1088,Cash,No,4,Excellent,October,2024,Monday
+ORD0235,22-01-2025,Wednesday,Returning,Desserts,Gulab Jamun,1,249,249,UPI,Yes,5,Bad,January,2025,Wednesday
+ORD0236,17-12-2024,Tuesday,New,North Indian,Butter Naan,1,86,86,UPI,No,5,Excellent,December,2024,Tuesday
+ORD0237,18-10-2024,Friday,Returning,Chinese,Veg Noodles,1,223,223,Card,No,5,Very Good,October,2024,Friday
+ORD0239,28-01-2025,Tuesday,Returning,Desserts,Gulab Jamun,2,170,340,Card,No,3,Very Good,January,2025,Tuesday
+ORD0240,11-10-2024,Friday,New,Beverages,Coffee,4,275,1103,Card,No,4,Excellent,October,2024,Friday
+ORD0241,18-03-2025,Tuesday,New,South Indian,Idli Sambar,4,112,451,UPI,No,5,Very Good,March,2025,Tuesday
+ORD0243,20-02-2025,Thursday,New,Chinese,Manchurian,3,101,304,Card,No,3,Good,February,2025,Thursday
+ORD0244,11-12-2024,Wednesday,New,Beverages,Cold Drink,3,122,367,Cash,Yes,2,Very Good,December,2024,Wednesday
+ORD0246,03-04-2025,Thursday,New,Chinese,Manchurian,5,296,1481,Cash,Yes,3,Bad,April,2025,Thursday
+ORD0247,16-01-2025,Thursday,New,North Indian,Dal Makhani,3,253,760,Card,Yes,4,Very Good,January,2025,Thursday
+ORD0248,05-04-2025,Saturday,Returning,South Indian,Uttapam,5,158,793,Cash,No,2,Excellent,April,2025,Saturday
+ORD0249,10-12-2024,Tuesday,Returning,Chinese,Manchurian,2,215,431,UPI,Yes,1,Excellent,December,2024,Tuesday
+ORD0250,12-03-2025,Wednesday,Returning,North Indian,Paneer Butter Masala,4,84,339,Card,No,2,Good,March,2025,Wednesday
+ORD0251,27-03-2025,Thursday,Returning,Beverages,Masala Chai,4,156,625,Card,No,4,Good,March,2025,Thursday
+ORD0252,19-03-2025,Wednesday,Returning,South Indian,Vada,1,158,158,Cash,No,2,Good,March,2025,Wednesday
+ORD0253,09-03-2025,Sunday,Returning,Beverages,Masala Chai,5,208,1042,Cash,Yes,2,Excellent,March,2025,Sunday
+ORD0255,09-12-2024,Monday,Returning,North Indian,Butter Naan,5,282,1412,Cash,No,1,Good,December,2024,Monday
+ORD0257,19-01-2025,Sunday,New,Desserts,Ice Cream,2,275,551,UPI,Yes,3,Okay,January,2025,Sunday
+ORD0258,21-02-2025,Friday,Returning,Chinese,Spring Roll,1,236,236,UPI,Yes,4,Very Good,February,2025,Friday
+ORD0259,31-03-2025,Monday,New,Desserts,Kheer,4,140,562,Card,Yes,4,Excellent,March,2025,Monday
+ORD0261,29-01-2025,Wednesday,New,Beverages,Lassi,1,240,240,Cash,Yes,1,Excellent,January,2025,Wednesday
+ORD0262,11-01-2025,Saturday,New,Desserts,Rasgulla,5,82,412,Card,No,4,Very Good,January,2025,Saturday
+ORD0263,29-11-2024,Friday,New,South Indian,Vada,1,253,253,Card,No,1,Excellent,November,2024,Friday
+ORD0264,09-02-2025,Sunday,New,Beverages,Coffee,1,264,264,UPI,No,5,Very Good,February,2025,Sunday
+ORD0266,25-02-2025,Tuesday,Returning,South Indian,Vada,5,163,817,UPI,Yes,1,Good,February,2025,Tuesday
+ORD0267,15-10-2024,Tuesday,New,Beverages,Masala Chai,3,262,787,Card,Yes,3,Good,October,2024,Tuesday
+ORD0269,10-12-2024,Tuesday,New,Beverages,Masala Chai,5,206,1030,UPI,No,1,Excellent,December,2024,Tuesday
+ORD0270,18-11-2024,Monday,Returning,South Indian,Uttapam,2,130,261,UPI,No,1,Excellent,November,2024,Monday
+ORD0271,03-11-2024,Sunday,New,South Indian,Idli Sambar,5,111,555,UPI,No,2,Bad,November,2024,Sunday
+ORD0272,28-11-2024,Thursday,New,North Indian,Butter Naan,3,116,349,Cash,No,2,Good,November,2024,Thursday
+ORD0273,14-03-2025,Friday,New,North Indian,Butter Naan,2,193,386,UPI,No,5,Good,March,2025,Friday
+ORD0274,23-11-2024,Saturday,Returning,Chinese,Fried Rice,1,198,198,UPI,No,3,Good,November,2024,Saturday
+ORD0275,11-03-2025,Tuesday,New,North Indian,Butter Naan,1,279,279,Card,Yes,1,Excellent,March,2025,Tuesday
+ORD0277,12-01-2025,Sunday,New,Beverages,Cold Drink,5,278,1394,UPI,No,1,Okay,January,2025,Sunday
+ORD0278,06-04-2025,Sunday,New,Desserts,Kheer,5,58,294,Card,Yes,2,Very Good,April,2025,Sunday
+ORD0279,25-03-2025,Tuesday,Returning,Beverages,Masala Chai,1,156,156,Cash,Yes,5,Excellent,March,2025,Tuesday
+ORD0280,24-12-2024,Tuesday,New,Beverages,Lassi,4,51,204,UPI,Yes,3,Very Good,December,2024,Tuesday
+ORD0281,04-04-2025,Friday,New,South Indian,Uttapam,5,217,1085,Card,No,5,Excellent,April,2025,Friday
+ORD0283,12-12-2024,Thursday,New,Beverages,Cold Drink,4,297,1190,Card,Yes,4,Very Good,December,2024,Thursday
+ORD0285,17-02-2025,Monday,Returning,Desserts,Gulab Jamun,4,121,486,Cash,No,4,Very Good,February,2025,Monday
+ORD0287,17-11-2024,Sunday,Returning,North Indian,Paneer Butter Masala,4,183,734,Card,Yes,2,Very Good,November,2024,Sunday
+ORD0288,03-12-2024,Tuesday,Returning,Desserts,Gulab Jamun,4,134,537,UPI,No,1,Okay,December,2024,Tuesday
+ORD0289,16-12-2024,Monday,Returning,South Indian,Uttapam,1,262,262,UPI,No,1,Good,December,2024,Monday
+ORD0290,18-12-2024,Wednesday,Returning,South Indian,Uttapam,2,222,445,Cash,Yes,4,Good,December,2024,Wednesday
+ORD0291,13-10-2024,Sunday,New,Chinese,Manchurian,2,276,553,Card,Yes,3,Okay,October,2024,Sunday
+ORD0292,02-03-2025,Sunday,New,Desserts,Gulab Jamun,5,273,1369,Card,Yes,1,Bad,March,2025,Sunday
+ORD0293,27-12-2024,Friday,New,North Indian,Paneer Butter Masala,4,259,1036,Card,No,3,Good,December,2024,Friday
+ORD0294,11-11-2024,Monday,New,Chinese,Veg Noodles,4,105,422,Card,Yes,5,Bad,November,2024,Monday
+ORD0296,27-03-2025,Thursday,New,North Indian,Butter Naan,3,134,403,UPI,No,5,Bad,March,2025,Thursday
+ORD0297,03-12-2024,Tuesday,Returning,North Indian,Paneer Butter Masala,4,109,438,Cash,Yes,5,Excellent,December,2024,Tuesday
+ORD0298,19-10-2024,Saturday,New,Chinese,Manchurian,1,185,185,Card,Yes,1,Very Good,October,2024,Saturday
+ORD0299,04-12-2024,Wednesday,New,Beverages,Masala Chai,2,170,340,Card,Yes,4,Okay,December,2024,Wednesday
+ORD0300,25-10-2024,Friday,Returning,South Indian,Masala Dosa,2,115,231,UPI,Yes,1,Very Good,October,2024,Friday
+ORD0301,05-04-2025,Saturday,Returning,Chinese,Veg Noodles,2,222,445,UPI,Yes,2,Bad,April,2025,Saturday
+ORD0302,28-03-2025,Friday,New,South Indian,Uttapam,1,101,101,UPI,No,3,Okay,March,2025,Friday
+ORD0303,24-01-2025,Friday,Returning,South Indian,Vada,2,257,514,UPI,No,2,Good,January,2025,Friday
+ORD0305,25-11-2024,Monday,Returning,Desserts,Ice Cream,3,84,254,Card,No,1,Good,November,2024,Monday
+ORD0306,13-12-2024,Friday,New,Beverages,Cold Drink,4,184,739,Cash,No,5,Bad,December,2024,Friday
+ORD0307,07-11-2024,Thursday,Returning,Beverages,Cold Drink,3,262,786,UPI,No,2,Excellent,November,2024,Thursday
+ORD0308,25-01-2025,Saturday,Returning,North Indian,Butter Naan,1,292,292,Card,No,5,Good,January,2025,Saturday
+ORD0309,18-03-2025,Tuesday,New,South Indian,Idli Sambar,4,275,1103,UPI,No,5,Very Good,March,2025,Tuesday
+ORD0310,06-11-2024,Wednesday,New,North Indian,Chole Bhature,2,205,410,UPI,No,1,Okay,November,2024,Wednesday
+ORD0311,02-12-2024,Monday,Returning,Desserts,Gulab Jamun,4,100,403,UPI,Yes,1,Very Good,December,2024,Monday
+ORD0312,15-03-2025,Saturday,Returning,Chinese,Fried Rice,4,60,242,Card,No,2,Okay,March,2025,Saturday
+ORD0313,22-10-2024,Tuesday,New,South Indian,Masala Dosa,1,116,116,Card,No,2,Okay,October,2024,Tuesday
+ORD0314,06-01-2025,Monday,New,Chinese,Manchurian,5,66,331,Card,No,1,Good,January,2025,Monday
+ORD0315,23-10-2024,Wednesday,Returning,South Indian,Idli Sambar,1,286,286,Card,Yes,4,Good,October,2024,Wednesday
+ORD0316,13-11-2024,Wednesday,New,Beverages,Cold Drink,5,295,1478,UPI,No,3,Very Good,November,2024,Wednesday
+ORD0317,20-10-2024,Sunday,New,Chinese,Manchurian,2,160,320,UPI,Yes,3,Good,October,2024,Sunday
+ORD0319,10-10-2024,Thursday,Returning,Beverages,Cold Drink,5,257,1289,Card,Yes,1,Excellent,October,2024,Thursday
+ORD0320,17-01-2025,Friday,Returning,South Indian,Masala Dosa,2,50,100,Cash,Yes,4,Excellent,January,2025,Friday
+ORD0321,23-10-2024,Wednesday,Returning,Chinese,Spring Roll,1,146,146,Cash,No,1,Excellent,October,2024,Wednesday
+ORD0322,10-01-2025,Friday,Returning,Desserts,Ice Cream,4,78,312,UPI,Yes,3,Very Good,January,2025,Friday
+ORD0323,04-04-2025,Friday,New,Chinese,Spring Roll,4,106,424,Cash,No,4,Excellent,April,2025,Friday
+ORD0324,02-03-2025,Sunday,Returning,South Indian,Masala Dosa,3,214,642,UPI,Yes,3,Excellent,March,2025,Sunday
+ORD0325,04-11-2024,Monday,New,Desserts,Kheer,2,178,356,UPI,Yes,4,Good,November,2024,Monday
+ORD0326,04-04-2025,Friday,New,North Indian,Butter Naan,3,247,742,Card,No,5,Bad,April,2025,Friday
+ORD0327,12-02-2025,Wednesday,New,South Indian,Masala Dosa,5,140,700,UPI,No,5,Bad,February,2025,Wednesday
+ORD0328,09-10-2024,Wednesday,Returning,Desserts,Rasgulla,3,91,274,Card,No,3,Very Good,October,2024,Wednesday
+ORD0330,19-10-2024,Saturday,New,Chinese,Veg Noodles,2,132,265,UPI,Yes,1,Good,October,2024,Saturday
+ORD0331,17-03-2025,Monday,New,Chinese,Manchurian,5,104,521,Cash,No,2,Good,March,2025,Monday
+ORD0332,10-10-2024,Thursday,Returning,Desserts,Gulab Jamun,4,120,480,UPI,Yes,2,Good,October,2024,Thursday
+ORD0333,28-11-2024,Thursday,Returning,South Indian,Uttapam,4,70,281,Cash,No,1,Bad,November,2024,Thursday
+ORD0335,20-03-2025,Thursday,Returning,Desserts,Ice Cream,4,233,934,Card,No,1,Very Good,March,2025,Thursday
+ORD0336,02-03-2025,Sunday,Returning,South Indian,Vada,5,73,365,Cash,Yes,2,Excellent,March,2025,Sunday
+ORD0337,06-02-2025,Thursday,New,North Indian,Paneer Butter Masala,5,259,1299,Cash,Yes,5,Good,February,2025,Thursday
+ORD0338,14-12-2024,Saturday,New,Beverages,Coffee,5,181,906,Card,Yes,2,Bad,December,2024,Saturday
+ORD0339,29-11-2024,Friday,New,North Indian,Dal Makhani,1,272,272,Cash,Yes,4,Very Good,November,2024,Friday
+ORD0340,16-12-2024,Monday,Returning,South Indian,Masala Dosa,5,288,1441,UPI,Yes,2,Very Good,December,2024,Monday
+ORD0341,10-10-2024,Thursday,Returning,Beverages,Cold Drink,2,152,305,Cash,Yes,4,Very Good,October,2024,Thursday
+ORD0342,28-02-2025,Friday,Returning,Beverages,Masala Chai,2,109,218,UPI,No,3,Okay,February,2025,Friday
+ORD0343,27-11-2024,Wednesday,Returning,Desserts,Kheer,2,55,110,Card,No,5,Good,November,2024,Wednesday
+ORD0344,25-02-2025,Tuesday,New,Beverages,Coffee,1,235,235,UPI,Yes,2,Good,February,2025,Tuesday
+ORD0345,31-12-2024,Tuesday,New,South Indian,Vada,1,102,102,UPI,Yes,4,Very Good,December,2024,Tuesday
+ORD0346,20-02-2025,Thursday,Returning,South Indian,Vada,1,157,157,Card,No,5,Bad,February,2025,Thursday
+ORD0347,12-10-2024,Saturday,Returning,Beverages,Masala Chai,1,142,142,Cash,Yes,1,Excellent,October,2024,Saturday
+ORD0348,17-12-2024,Tuesday,New,North Indian,Dal Makhani,4,293,1173,UPI,No,4,Bad,December,2024,Tuesday
+ORD0349,26-02-2025,Wednesday,Returning,Chinese,Fried Rice,2,222,445,Card,Yes,1,Excellent,February,2025,Wednesday
+ORD0350,05-04-2025,Saturday,New,South Indian,Uttapam,5,143,719,Cash,Yes,1,Bad,April,2025,Saturday
+ORD0351,16-11-2024,Saturday,Returning,North Indian,Chole Bhature,2,168,337,UPI,Yes,5,Good,November,2024,Saturday
+ORD0352,05-12-2024,Thursday,New,North Indian,Dal Makhani,4,109,436,Cash,No,3,Bad,December,2024,Thursday
+ORD0353,07-03-2025,Friday,Returning,North Indian,Butter Naan,5,104,523,UPI,No,5,Excellent,March,2025,Friday
+ORD0355,16-10-2024,Wednesday,Returning,Desserts,Gulab Jamun,5,295,1477,UPI,Yes,4,Okay,October,2024,Wednesday
+ORD0356,23-01-2025,Thursday,New,Beverages,Cold Drink,3,272,816,UPI,Yes,5,Good,January,2025,Thursday
+ORD0357,01-02-2025,Saturday,New,Chinese,Veg Noodles,2,264,529,Card,No,1,Very Good,February,2025,Saturday
+ORD0358,31-03-2025,Monday,New,Desserts,Kheer,1,62,62,Card,No,2,Excellent,March,2025,Monday
+ORD0361,14-01-2025,Tuesday,New,Beverages,Lassi,1,54,54,Cash,Yes,4,Excellent,January,2025,Tuesday
+ORD0362,27-02-2025,Thursday,Returning,Desserts,Rasgulla,3,133,399,UPI,No,2,Excellent,February,2025,Thursday
+ORD0363,02-01-2025,Thursday,New,North Indian,Paneer Butter Masala,3,277,832,Card,No,2,Good,January,2025,Thursday
+ORD0364,01-03-2025,Saturday,New,Beverages,Coffee,3,93,279,Cash,No,4,Good,March,2025,Saturday
+ORD0366,14-12-2024,Saturday,New,South Indian,Idli Sambar,5,208,1042,Card,Yes,4,Very Good,December,2024,Saturday
+ORD0367,07-11-2024,Thursday,New,South Indian,Uttapam,5,102,513,UPI,No,4,Excellent,November,2024,Thursday
+ORD0368,19-11-2024,Tuesday,Returning,South Indian,Idli Sambar,1,137,137,Card,Yes,4,Excellent,November,2024,Tuesday
+ORD0369,24-03-2025,Monday,Returning,North Indian,Dal Makhani,2,204,409,UPI,Yes,1,Okay,March,2025,Monday
+ORD0370,14-10-2024,Monday,New,North Indian,Chole Bhature,2,163,327,Card,No,4,Okay,October,2024,Monday
+ORD0371,13-10-2024,Sunday,New,North Indian,Chole Bhature,5,169,847,UPI,No,4,Okay,October,2024,Sunday
+ORD0372,20-12-2024,Friday,New,Desserts,Ice Cream,2,278,557,UPI,No,1,Okay,December,2024,Friday
+ORD0373,19-10-2024,Saturday,New,Chinese,Fried Rice,1,61,61,Card,Yes,2,Bad,October,2024,Saturday
+ORD0374,16-12-2024,Monday,New,Beverages,Lassi,3,102,306,Card,No,3,Very Good,December,2024,Monday
+ORD0375,23-11-2024,Saturday,Returning,South Indian,Masala Dosa,4,98,392,Cash,No,3,Bad,November,2024,Saturday
+ORD0376,02-01-2025,Thursday,New,North Indian,Dal Makhani,5,176,882,UPI,No,2,Excellent,January,2025,Thursday
+ORD0377,08-03-2025,Saturday,New,Desserts,Rasgulla,1,213,213,Cash,Yes,5,Good,March,2025,Saturday
+ORD0379,06-01-2025,Monday,New,South Indian,Idli Sambar,3,155,465,Card,Yes,4,Okay,January,2025,Monday
+ORD0381,09-12-2024,Monday,Returning,Desserts,Ice Cream,4,257,1029,Card,No,5,Good,December,2024,Monday
+ORD0382,28-11-2024,Thursday,Returning,South Indian,Uttapam,2,156,313,Card,No,4,Good,November,2024,Thursday
+ORD0384,26-10-2024,Saturday,Returning,South Indian,Vada,5,62,314,Cash,Yes,2,Bad,October,2024,Saturday
+ORD0385,16-02-2025,Sunday,New,South Indian,Idli Sambar,1,175,175,UPI,Yes,1,Excellent,February,2025,Sunday
+ORD0386,05-04-2025,Saturday,Returning,North Indian,Paneer Butter Masala,1,237,237,Cash,No,2,Okay,April,2025,Saturday
+ORD0387,30-12-2024,Monday,New,South Indian,Idli Sambar,1,280,280,UPI,Yes,2,Very Good,December,2024,Monday
+ORD0389,09-03-2025,Sunday,Returning,Beverages,Cold Drink,5,121,609,Cash,Yes,4,Excellent,March,2025,Sunday
+ORD0390,10-01-2025,Friday,New,Beverages,Masala Chai,3,56,170,UPI,No,5,Okay,January,2025,Friday
+ORD0391,26-11-2024,Tuesday,New,Desserts,Gulab Jamun,2,96,192,Card,No,2,Excellent,November,2024,Tuesday
+ORD0392,16-11-2024,Saturday,New,South Indian,Uttapam,1,228,228,Card,Yes,3,Excellent,November,2024,Saturday
+ORD0393,05-11-2024,Tuesday,New,Beverages,Cold Drink,2,299,598,Cash,Yes,5,Excellent,November,2024,Tuesday
+ORD0394,04-03-2025,Tuesday,Returning,North Indian,Dal Makhani,4,153,615,Card,No,2,Okay,March,2025,Tuesday
+ORD0398,10-01-2025,Friday,Returning,Desserts,Gulab Jamun,2,267,535,Card,No,3,Excellent,January,2025,Friday
+ORD0399,15-01-2025,Wednesday,Returning,South Indian,Uttapam,4,192,770,Cash,No,3,Bad,January,2025,Wednesday
+ORD0400,17-11-2024,Sunday,New,Chinese,Manchurian,4,78,312,Cash,No,5,Good,November,2024,Sunday
+ORD0401,27-11-2024,Wednesday,New,North Indian,Dal Makhani,4,60,241,Card,No,2,Good,November,2024,Wednesday
+ORD0402,09-11-2024,Saturday,Returning,Chinese,Manchurian,2,257,514,Cash,No,5,Bad,November,2024,Saturday
+ORD0405,14-11-2024,Thursday,Returning,North Indian,Chole Bhature,2,82,165,Card,Yes,2,Good,November,2024,Thursday
+ORD0406,14-01-2025,Tuesday,Returning,South Indian,Idli Sambar,5,62,313,Card,Yes,4,Good,January,2025,Tuesday
+ORD0407,05-04-2025,Saturday,Returning,Beverages,Masala Chai,4,55,222,Card,Yes,1,Okay,April,2025,Saturday
+ORD0408,16-02-2025,Sunday,New,Chinese,Fried Rice,4,89,358,UPI,No,5,Okay,February,2025,Sunday
+ORD0409,27-11-2024,Wednesday,New,South Indian,Masala Dosa,2,197,395,Cash,Yes,4,Good,November,2024,Wednesday
+ORD0411,26-12-2024,Thursday,Returning,Beverages,Coffee,4,68,272,Cash,No,3,Excellent,December,2024,Thursday
+ORD0412,15-03-2025,Saturday,Returning,South Indian,Vada,5,211,1057,Card,Yes,4,Bad,March,2025,Saturday
+ORD0413,16-12-2024,Monday,Returning,Chinese,Fried Rice,5,186,934,Cash,No,5,Okay,December,2024,Monday
+ORD0414,29-12-2024,Sunday,New,Beverages,Coffee,1,78,78,UPI,No,2,Excellent,December,2024,Sunday
+ORD0415,12-02-2025,Wednesday,Returning,South Indian,Uttapam,4,55,223,Card,No,2,Excellent,February,2025,Wednesday
+ORD0416,06-01-2025,Monday,Returning,Chinese,Manchurian,3,268,806,Cash,No,5,Bad,January,2025,Monday
+ORD0417,26-12-2024,Thursday,Returning,Beverages,Cold Drink,4,112,448,UPI,Yes,3,Good,December,2024,Thursday
+ORD0418,16-01-2025,Thursday,New,South Indian,Vada,3,204,612,Card,Yes,2,Okay,January,2025,Thursday
+ORD0419,31-03-2025,Monday,Returning,Desserts,Rasgulla,1,251,251,Cash,No,2,Okay,March,2025,Monday
+ORD0420,03-12-2024,Tuesday,Returning,South Indian,Idli Sambar,1,243,243,Card,No,2,Very Good,December,2024,Tuesday
+ORD0421,31-03-2025,Monday,New,Beverages,Lassi,1,243,243,Cash,Yes,4,Very Good,March,2025,Monday
+ORD0422,05-12-2024,Thursday,Returning,Beverages,Cold Drink,5,88,443,UPI,No,4,Bad,December,2024,Thursday
+ORD0423,06-04-2025,Sunday,New,Desserts,Gulab Jamun,2,211,422,UPI,Yes,5,Okay,April,2025,Sunday
+ORD0424,17-01-2025,Friday,New,North Indian,Dal Makhani,5,192,963,UPI,Yes,2,Okay,January,2025,Friday
+ORD0425,05-12-2024,Thursday,New,Beverages,Lassi,4,270,1081,UPI,Yes,3,Excellent,December,2024,Thursday
+ORD0426,22-12-2024,Sunday,Returning,Chinese,Manchurian,4,246,986,Card,Yes,1,Good,December,2024,Sunday
+ORD0427,13-01-2025,Monday,New,Chinese,Manchurian,5,122,614,UPI,No,1,Excellent,January,2025,Monday
+ORD0428,02-12-2024,Monday,Returning,Beverages,Coffee,1,215,215,Card,No,4,Good,December,2024,Monday
+ORD0429,21-12-2024,Saturday,New,Chinese,Fried Rice,2,279,558,UPI,No,4,Good,December,2024,Saturday
+ORD0430,17-01-2025,Friday,Returning,Desserts,Ice Cream,2,145,290,UPI,Yes,1,Excellent,January,2025,Friday
+ORD0432,17-02-2025,Monday,New,North Indian,Dal Makhani,4,193,775,Cash,Yes,3,Good,February,2025,Monday
+ORD0433,30-10-2024,Wednesday,New,South Indian,Idli Sambar,4,293,1174,Cash,Yes,4,Good,October,2024,Wednesday
+ORD0434,12-02-2025,Wednesday,New,Chinese,Fried Rice,5,149,749,Cash,Yes,2,Very Good,February,2025,Wednesday
+ORD0435,21-03-2025,Friday,New,South Indian,Uttapam,4,181,727,Card,No,4,Good,March,2025,Friday
+ORD0436,24-01-2025,Friday,New,North Indian,Chole Bhature,2,280,560,UPI,No,2,Okay,January,2025,Friday
+ORD0437,25-11-2024,Monday,Returning,Beverages,Masala Chai,4,274,1098,Card,No,4,Okay,November,2024,Monday
+ORD0439,13-11-2024,Wednesday,New,North Indian,Chole Bhature,1,212,212,Card,No,2,Bad,November,2024,Wednesday
+ORD0440,14-02-2025,Friday,New,Desserts,Rasgulla,4,191,767,Card,No,2,Good,February,2025,Friday
+ORD0441,04-02-2025,Tuesday,New,North Indian,Dal Makhani,5,80,401,Cash,No,2,Excellent,February,2025,Tuesday
+ORD0442,14-10-2024,Monday,New,Chinese,Spring Roll,5,233,1165,Cash,Yes,5,Okay,October,2024,Monday
+ORD0443,20-11-2024,Wednesday,Returning,North Indian,Butter Naan,2,188,377,Cash,Yes,3,Bad,November,2024,Wednesday
+ORD0444,02-11-2024,Saturday,New,Beverages,Cold Drink,5,173,865,Cash,Yes,4,Bad,November,2024,Saturday
+ORD0445,10-01-2025,Friday,New,Desserts,Ice Cream,4,244,979,Card,Yes,1,Excellent,January,2025,Friday
+ORD0446,17-11-2024,Sunday,New,Desserts,Gulab Jamun,3,184,553,Card,Yes,1,Excellent,November,2024,Sunday
+ORD0447,30-03-2025,Sunday,New,South Indian,Masala Dosa,4,128,512,UPI,No,2,Excellent,March,2025,Sunday
+ORD0448,26-03-2025,Wednesday,New,North Indian,Dal Makhani,3,61,183,Cash,Yes,5,Very Good,March,2025,Wednesday
+ORD0449,08-12-2024,Sunday,Returning,South Indian,Idli Sambar,3,207,622,UPI,Yes,1,Bad,December,2024,Sunday
+ORD0450,18-10-2024,Friday,Returning,Desserts,Ice Cream,4,184,738,UPI,Yes,2,Bad,October,2024,Friday
+ORD0451,28-12-2024,Saturday,New,North Indian,Chole Bhature,5,274,1374,UPI,No,4,Okay,December,2024,Saturday
+ORD0452,13-11-2024,Wednesday,New,Desserts,Rasgulla,3,239,717,Cash,No,5,Good,November,2024,Wednesday
+ORD0453,20-02-2025,Thursday,Returning,South Indian,Uttapam,5,194,971,UPI,No,4,Good,February,2025,Thursday
+ORD0456,12-02-2025,Wednesday,New,Desserts,Ice Cream,5,182,914,Card,Yes,4,Bad,February,2025,Wednesday
+ORD0459,11-11-2024,Monday,New,North Indian,Dal Makhani,3,135,406,UPI,Yes,2,Bad,November,2024,Monday
+ORD0460,30-11-2024,Saturday,New,Chinese,Veg Noodles,1,229,229,Cash,No,3,Very Good,November,2024,Saturday
+ORD0462,11-03-2025,Tuesday,Returning,South Indian,Uttapam,1,294,294,UPI,No,5,Bad,March,2025,Tuesday
+ORD0463,09-12-2024,Monday,New,North Indian,Dal Makhani,4,164,658,Card,Yes,1,Good,December,2024,Monday
+ORD0464,21-02-2025,Friday,New,South Indian,Uttapam,3,89,267,Cash,No,4,Very Good,February,2025,Friday
+ORD0466,15-01-2025,Wednesday,New,Chinese,Fried Rice,4,296,1187,Card,No,3,Good,January,2025,Wednesday
+ORD0467,08-11-2024,Friday,New,Beverages,Cold Drink,3,55,165,Cash,No,2,Good,November,2024,Friday
+ORD0468,01-04-2025,Tuesday,Returning,South Indian,Vada,4,156,624,Card,No,5,Very Good,April,2025,Tuesday
+ORD0469,29-01-2025,Wednesday,Returning,Desserts,Rasgulla,1,298,298,Card,No,3,Good,January,2025,Wednesday
+ORD0470,03-11-2024,Sunday,New,Desserts,Kheer,2,127,254,UPI,No,2,Bad,November,2024,Sunday
+ORD0471,25-01-2025,Saturday,Returning,Beverages,Coffee,2,68,137,Cash,Yes,4,Good,January,2025,Saturday
+ORD0472,09-11-2024,Saturday,New,Beverages,Lassi,4,64,258,Cash,Yes,2,Okay,November,2024,Saturday
+ORD0473,06-12-2024,Friday,Returning,Chinese,Manchurian,5,275,1375,Card,Yes,2,Good,December,2024,Friday
+ORD0475,30-12-2024,Monday,New,Beverages,Coffee,4,251,1006,UPI,Yes,4,Excellent,December,2024,Monday
+ORD0476,25-03-2025,Tuesday,New,North Indian,Butter Naan,5,54,274,Card,Yes,2,Very Good,March,2025,Tuesday
+ORD0477,26-03-2025,Wednesday,Returning,Chinese,Fried Rice,1,135,135,Card,Yes,2,Good,March,2025,Wednesday
+ORD0478,21-10-2024,Monday,New,South Indian,Uttapam,4,54,218,Card,Yes,3,Good,October,2024,Monday
+ORD0479,12-10-2024,Saturday,New,North Indian,Chole Bhature,1,218,218,Card,No,4,Good,October,2024,Saturday
+ORD0480,03-02-2025,Monday,New,Beverages,Coffee,5,89,448,Cash,No,1,Bad,February,2025,Monday
+ORD0483,13-01-2025,Monday,New,South Indian,Idli Sambar,1,244,244,UPI,No,2,Okay,January,2025,Monday
+ORD0484,07-11-2024,Thursday,New,Chinese,Manchurian,5,231,1155,UPI,Yes,1,Bad,November,2024,Thursday
+ORD0485,22-01-2025,Wednesday,Returning,Beverages,Coffee,4,292,1171,Card,No,4,Good,January,2025,Wednesday
+ORD0487,21-02-2025,Friday,New,Beverages,Masala Chai,2,141,283,UPI,Yes,1,Excellent,February,2025,Friday
+ORD0489,23-10-2024,Wednesday,New,North Indian,Dal Makhani,4,217,869,Cash,No,5,Good,October,2024,Wednesday
+ORD0490,26-01-2025,Sunday,New,Beverages,Lassi,1,279,279,Card,Yes,2,Very Good,January,2025,Sunday
+ORD0491,08-01-2025,Wednesday,New,Beverages,Coffee,2,176,352,Card,Yes,2,Good,January,2025,Wednesday
+ORD0492,04-02-2025,Tuesday,New,North Indian,Butter Naan,5,240,1201,UPI,Yes,5,Excellent,February,2025,Tuesday
+ORD0495,01-12-2024,Sunday,Returning,Chinese,Manchurian,5,84,423,UPI,Yes,3,Very Good,December,2024,Sunday
+ORD0496,21-02-2025,Friday,New,Beverages,Coffee,5,148,740,UPI,Yes,3,Bad,February,2025,Friday
+ORD0497,30-12-2024,Monday,Returning,Desserts,Ice Cream,2,166,333,Card,Yes,3,Excellent,December,2024,Monday
+ORD0499,21-12-2024,Saturday,Returning,South Indian,Idli Sambar,4,225,900,Cash,Yes,2,Okay,December,2024,Saturday
+ORD0500,19-12-2024,Thursday,New,Desserts,Ice Cream,5,295,1476,UPI,Yes,4,Very Good,December,2024,Thursday
+ORD0501,24-11-2024,Sunday,Returning,Beverages,Masala Chai,3,138,414,UPI,Yes,5,Bad,November,2024,Sunday
+ORD0503,15-02-2025,Saturday,Returning,Desserts,Gulab Jamun,2,151,302,Card,Yes,2,Bad,February,2025,Saturday
+ORD0504,12-11-2024,Tuesday,Returning,Chinese,Spring Roll,1,130,130,UPI,Yes,1,Very Good,November,2024,Tuesday
+ORD0505,13-02-2025,Thursday,Returning,South Indian,Idli Sambar,5,139,697,Cash,Yes,4,Very Good,February,2025,Thursday
+ORD0506,26-02-2025,Wednesday,Returning,Chinese,Fried Rice,5,235,1179,Cash,No,3,Good,February,2025,Wednesday
+ORD0507,11-12-2024,Wednesday,Returning,Beverages,Masala Chai,5,246,1230,Card,No,5,Very Good,December,2024,Wednesday
+ORD0508,26-10-2024,Saturday,New,South Indian,Vada,1,225,225,Cash,Yes,5,Okay,October,2024,Saturday
+ORD0510,25-12-2024,Wednesday,Returning,North Indian,Butter Naan,3,297,893,UPI,Yes,2,Good,December,2024,Wednesday
+ORD0511,09-12-2024,Monday,New,Chinese,Manchurian,1,273,273,UPI,No,4,Good,December,2024,Monday
+ORD0512,22-10-2024,Tuesday,New,South Indian,Vada,4,283,1132,UPI,No,3,Okay,October,2024,Tuesday
+ORD0513,04-02-2025,Tuesday,Returning,South Indian,Idli Sambar,1,66,66,UPI,No,5,Very Good,February,2025,Tuesday
+ORD0514,29-03-2025,Saturday,New,South Indian,Vada,5,243,1218,Card,No,4,Okay,March,2025,Saturday
+ORD0515,17-11-2024,Sunday,New,Chinese,Veg Noodles,4,210,843,Card,Yes,5,Excellent,November,2024,Sunday
+ORD0516,25-03-2025,Tuesday,Returning,Chinese,Veg Noodles,1,283,283,Cash,No,1,Excellent,March,2025,Tuesday
+ORD0517,29-03-2025,Saturday,New,South Indian,Idli Sambar,1,96,96,UPI,Yes,3,Very Good,March,2025,Saturday
+ORD0518,24-03-2025,Monday,New,Beverages,Cold Drink,2,134,269,UPI,No,5,Okay,March,2025,Monday
+ORD0519,04-02-2025,Tuesday,New,Beverages,Masala Chai,1,223,223,Cash,Yes,3,Okay,February,2025,Tuesday
+ORD0520,02-12-2024,Monday,Returning,North Indian,Paneer Butter Masala,4,148,593,Card,Yes,1,Very Good,December,2024,Monday
+ORD0522,12-12-2024,Thursday,New,South Indian,Idli Sambar,1,185,185,UPI,Yes,3,Excellent,December,2024,Thursday
+ORD0523,08-12-2024,Sunday,Returning,Desserts,Kheer,3,197,592,Cash,No,4,Very Good,December,2024,Sunday
+ORD0524,18-10-2024,Friday,Returning,South Indian,Uttapam,5,125,626,Cash,Yes,2,Very Good,October,2024,Friday
+ORD0525,16-03-2025,Sunday,New,Chinese,Veg Noodles,4,174,699,Card,No,2,Very Good,March,2025,Sunday
+ORD0526,23-10-2024,Wednesday,New,North Indian,Butter Naan,4,169,679,Card,No,5,Okay,October,2024,Wednesday
+ORD0528,15-11-2024,Friday,Returning,South Indian,Idli Sambar,1,121,121,Card,Yes,3,Okay,November,2024,Friday
+ORD0529,01-04-2025,Tuesday,Returning,Beverages,Coffee,2,55,110,Card,No,2,Excellent,April,2025,Tuesday
+ORD0530,05-11-2024,Tuesday,Returning,Chinese,Fried Rice,5,132,663,UPI,Yes,4,Bad,November,2024,Tuesday
+ORD0531,22-01-2025,Wednesday,New,Desserts,Rasgulla,5,255,1276,Card,Yes,3,Very Good,January,2025,Wednesday
+ORD0532,12-03-2025,Wednesday,Returning,Chinese,Veg Noodles,3,253,760,Cash,Yes,4,Very Good,March,2025,Wednesday
+ORD0533,02-02-2025,Sunday,Returning,North Indian,Chole Bhature,3,75,225,UPI,Yes,5,Excellent,February,2025,Sunday
+ORD0534,03-11-2024,Sunday,New,Beverages,Lassi,2,111,223,Cash,No,2,Bad,November,2024,Sunday
+ORD0536,31-12-2024,Tuesday,Returning,Desserts,Kheer,3,135,405,Card,Yes,2,Very Good,December,2024,Tuesday
+ORD0538,15-11-2024,Friday,New,Beverages,Masala Chai,2,265,531,UPI,Yes,2,Okay,November,2024,Friday
+ORD0539,05-01-2025,Sunday,New,North Indian,Chole Bhature,4,275,1100,Cash,Yes,2,Very Good,January,2025,Sunday
+ORD0540,17-10-2024,Thursday,New,North Indian,Dal Makhani,3,244,734,Card,No,1,Excellent,October,2024,Thursday
+ORD0541,07-01-2025,Tuesday,New,Chinese,Spring Roll,2,160,321,Cash,Yes,2,Okay,January,2025,Tuesday
+ORD0543,10-12-2024,Tuesday,Returning,North Indian,Chole Bhature,5,61,308,Cash,Yes,4,Excellent,December,2024,Tuesday
+ORD0544,24-10-2024,Thursday,New,Beverages,Lassi,4,58,232,UPI,No,2,Excellent,October,2024,Thursday
+ORD0545,18-12-2024,Wednesday,New,Chinese,Veg Noodles,2,287,575,Card,No,2,Good,December,2024,Wednesday
+ORD0546,04-02-2025,Tuesday,Returning,North Indian,Paneer Butter Masala,1,117,117,Cash,No,5,Okay,February,2025,Tuesday
+ORD0547,05-12-2024,Thursday,Returning,Chinese,Veg Noodles,5,232,1162,Cash,Yes,4,Good,December,2024,Thursday
+ORD0548,24-01-2025,Friday,New,Chinese,Fried Rice,2,154,309,UPI,Yes,2,Very Good,January,2025,Friday
+ORD0549,25-02-2025,Tuesday,New,Beverages,Masala Chai,3,87,261,Cash,No,4,Good,February,2025,Tuesday
+ORD0550,05-12-2024,Thursday,Returning,Chinese,Fried Rice,2,250,500,Card,Yes,1,Excellent,December,2024,Thursday
+ORD0551,27-11-2024,Wednesday,New,North Indian,Dal Makhani,4,135,542,Card,Yes,2,Okay,November,2024,Wednesday
+ORD0552,19-11-2024,Tuesday,New,Desserts,Rasgulla,1,261,261,Card,Yes,3,Bad,November,2024,Tuesday
+ORD0553,19-12-2024,Thursday,Returning,South Indian,Masala Dosa,4,52,209,Cash,No,2,Okay,December,2024,Thursday
+ORD0554,06-02-2025,Thursday,New,South Indian,Uttapam,3,181,543,Cash,No,3,Excellent,February,2025,Thursday
+ORD0555,03-04-2025,Thursday,Returning,North Indian,Dal Makhani,4,68,275,Cash,Yes,2,Good,April,2025,Thursday
+ORD0556,17-02-2025,Monday,Returning,Desserts,Ice Cream,5,179,898,UPI,Yes,2,Bad,February,2025,Monday
+ORD0557,13-03-2025,Thursday,Returning,Chinese,Veg Noodles,4,118,474,Cash,Yes,2,Okay,March,2025,Thursday
+ORD0558,27-12-2024,Friday,New,Desserts,Kheer,4,89,356,Card,No,5,Excellent,December,2024,Friday
+ORD0559,16-03-2025,Sunday,Returning,Desserts,Ice Cream,2,83,167,UPI,Yes,3,Very Good,March,2025,Sunday
+ORD0560,24-02-2025,Monday,Returning,Beverages,Masala Chai,4,157,631,Cash,Yes,3,Okay,February,2025,Monday
+ORD0561,24-11-2024,Sunday,Returning,South Indian,Uttapam,1,205,205,Card,No,5,Very Good,November,2024,Sunday
+ORD0562,24-01-2025,Friday,Returning,Chinese,Spring Roll,3,132,398,Cash,Yes,1,Very Good,January,2025,Friday
+ORD0563,31-10-2024,Thursday,Returning,North Indian,Dal Makhani,1,262,262,Card,Yes,2,Excellent,October,2024,Thursday
+ORD0564,24-03-2025,Monday,New,North Indian,Chole Bhature,3,84,253,Card,No,2,Bad,March,2025,Monday
+ORD0565,11-12-2024,Wednesday,New,Desserts,Kheer,2,182,364,UPI,Yes,5,Excellent,December,2024,Wednesday
+ORD0566,29-12-2024,Sunday,New,Chinese,Fried Rice,3,218,654,Card,No,5,Okay,December,2024,Sunday
+ORD0567,02-12-2024,Monday,Returning,Beverages,Masala Chai,1,90,90,UPI,Yes,4,Good,December,2024,Monday
+ORD0568,10-11-2024,Sunday,New,Chinese,Manchurian,4,290,1162,Cash,No,3,Okay,November,2024,Sunday
+ORD0569,03-01-2025,Friday,New,North Indian,Paneer Butter Masala,3,137,413,UPI,No,4,Very Good,January,2025,Friday
+ORD0570,06-02-2025,Thursday,New,North Indian,Chole Bhature,5,79,395,UPI,No,2,Okay,February,2025,Thursday
+ORD0571,22-02-2025,Saturday,Returning,Chinese,Veg Noodles,1,185,185,UPI,No,2,Excellent,February,2025,Saturday
+ORD0572,16-12-2024,Monday,New,Beverages,Masala Chai,3,210,630,UPI,Yes,1,Okay,December,2024,Monday
+ORD0573,13-10-2024,Sunday,Returning,Desserts,Rasgulla,1,226,226,Card,No,4,Okay,October,2024,Sunday
+ORD0576,18-12-2024,Wednesday,Returning,North Indian,Dal Makhani,2,75,151,Cash,Yes,4,Good,December,2024,Wednesday
+ORD0577,08-03-2025,Saturday,New,Chinese,Manchurian,1,83,83,UPI,Yes,5,Bad,March,2025,Saturday
+ORD0578,22-01-2025,Wednesday,Returning,Beverages,Masala Chai,3,90,272,UPI,No,2,Very Good,January,2025,Wednesday
+ORD0579,05-12-2024,Thursday,New,South Indian,Idli Sambar,1,118,118,Card,No,5,Good,December,2024,Thursday
+ORD0580,02-11-2024,Saturday,New,South Indian,Masala Dosa,4,173,692,Card,No,2,Very Good,November,2024,Saturday
+ORD0581,21-12-2024,Saturday,Returning,Desserts,Kheer,5,234,1173,Cash,No,3,Bad,December,2024,Saturday
+ORD0582,05-02-2025,Wednesday,New,South Indian,Masala Dosa,2,297,595,UPI,No,5,Good,February,2025,Wednesday
+ORD0583,18-02-2025,Tuesday,New,Chinese,Fried Rice,1,284,284,UPI,No,4,Okay,February,2025,Tuesday
+ORD0584,02-01-2025,Thursday,New,South Indian,Vada,2,266,532,UPI,No,5,Very Good,January,2025,Thursday
+ORD0585,14-10-2024,Monday,New,North Indian,Chole Bhature,5,122,610,Card,Yes,1,Okay,October,2024,Monday
+ORD0586,12-01-2025,Sunday,Returning,Desserts,Kheer,1,180,180,Cash,Yes,3,Bad,January,2025,Sunday
+ORD0587,04-02-2025,Tuesday,Returning,South Indian,Uttapam,4,245,982,Cash,No,5,Excellent,February,2025,Tuesday
+ORD0589,14-10-2024,Monday,Returning,Beverages,Masala Chai,2,84,168,Cash,Yes,4,Okay,October,2024,Monday
+ORD0590,23-02-2025,Sunday,Returning,Chinese,Fried Rice,2,90,181,Cash,Yes,3,Bad,February,2025,Sunday
+ORD0591,09-11-2024,Saturday,Returning,Beverages,Cold Drink,4,214,859,Cash,No,5,Excellent,November,2024,Saturday
+ORD0592,29-03-2025,Saturday,Returning,Chinese,Spring Roll,1,242,242,UPI,No,1,Excellent,March,2025,Saturday
+ORD0593,14-01-2025,Tuesday,New,Desserts,Gulab Jamun,5,132,661,Cash,Yes,2,Excellent,January,2025,Tuesday
+ORD0594,17-10-2024,Thursday,New,Beverages,Coffee,2,102,204,UPI,Yes,2,Excellent,October,2024,Thursday
+ORD0595,05-12-2024,Thursday,New,Desserts,Kheer,5,96,483,UPI,No,1,Excellent,December,2024,Thursday
+ORD0596,24-02-2025,Monday,New,Desserts,Kheer,3,296,889,Card,Yes,2,Very Good,February,2025,Monday
+ORD0597,16-02-2025,Sunday,New,South Indian,Idli Sambar,4,66,266,Card,Yes,3,Bad,February,2025,Sunday
+ORD0598,31-01-2025,Friday,New,South Indian,Vada,2,218,437,Card,Yes,5,Okay,January,2025,Friday
+ORD0599,01-04-2025,Tuesday,New,South Indian,Uttapam,5,119,595,Card,Yes,4,Good,April,2025,Tuesday
+ORD0601,02-11-2024,Saturday,Returning,Chinese,Manchurian,1,192,192,UPI,No,1,Bad,November,2024,Saturday
+ORD0602,05-12-2024,Thursday,New,Desserts,Gulab Jamun,4,99,396,UPI,Yes,2,Good,December,2024,Thursday
+ORD0604,11-01-2025,Saturday,New,South Indian,Idli Sambar,2,127,254,Cash,Yes,4,Very Good,January,2025,Saturday
+ORD0605,21-10-2024,Monday,New,North Indian,Dal Makhani,1,159,159,UPI,No,3,Excellent,October,2024,Monday
+ORD0606,03-11-2024,Sunday,Returning,Beverages,Masala Chai,5,241,1207,UPI,No,2,Excellent,November,2024,Sunday
+ORD0608,12-01-2025,Sunday,New,North Indian,Dal Makhani,2,219,439,Card,No,2,Bad,January,2025,Sunday
+ORD0611,17-10-2024,Thursday,Returning,North Indian,Butter Naan,2,212,425,Cash,No,2,Good,October,2024,Thursday
+ORD0612,22-11-2024,Friday,Returning,Beverages,Coffee,2,276,553,Cash,Yes,4,Excellent,November,2024,Friday
+ORD0613,11-01-2025,Saturday,Returning,North Indian,Dal Makhani,2,99,199,Card,Yes,2,Excellent,January,2025,Saturday
+ORD0614,18-02-2025,Tuesday,New,South Indian,Uttapam,1,88,88,Cash,Yes,4,Okay,February,2025,Tuesday
+ORD0615,31-01-2025,Friday,New,South Indian,Masala Dosa,4,76,305,Card,No,3,Bad,January,2025,Friday
+ORD0616,21-01-2025,Tuesday,Returning,Chinese,Fried Rice,5,285,1425,Card,Yes,5,Very Good,January,2025,Tuesday
+ORD0617,03-12-2024,Tuesday,New,Beverages,Masala Chai,3,225,675,UPI,Yes,5,Good,December,2024,Tuesday
+ORD0618,19-01-2025,Sunday,New,Chinese,Spring Roll,3,215,647,Card,Yes,3,Okay,January,2025,Sunday
+ORD0619,21-03-2025,Friday,New,Desserts,Kheer,1,224,224,UPI,No,3,Good,March,2025,Friday
+ORD0620,13-10-2024,Sunday,New,Desserts,Ice Cream,5,246,1230,Card,No,3,Okay,October,2024,Sunday
+ORD0621,17-10-2024,Thursday,New,South Indian,Vada,1,171,171,Card,No,5,Bad,October,2024,Thursday
+ORD0622,16-11-2024,Saturday,New,South Indian,Vada,5,182,910,UPI,No,3,Good,November,2024,Saturday
+ORD0623,15-12-2024,Sunday,New,South Indian,Vada,3,165,496,Cash,No,3,Okay,December,2024,Sunday
+ORD0624,03-11-2024,Sunday,New,Desserts,Ice Cream,3,193,580,Cash,No,1,Okay,November,2024,Sunday
+ORD0626,06-03-2025,Thursday,New,Chinese,Spring Roll,3,231,694,Cash,No,3,Good,March,2025,Thursday
+ORD0628,06-01-2025,Monday,Returning,Desserts,Gulab Jamun,4,205,823,UPI,Yes,1,Okay,January,2025,Monday
+ORD0631,02-12-2024,Monday,New,North Indian,Butter Naan,4,148,595,Card,Yes,2,Bad,December,2024,Monday
+ORD0632,13-11-2024,Wednesday,New,South Indian,Uttapam,3,196,589,UPI,Yes,1,Good,November,2024,Wednesday
+ORD0633,26-02-2025,Wednesday,New,South Indian,Masala Dosa,4,273,1095,Cash,Yes,1,Very Good,February,2025,Wednesday
+ORD0634,18-02-2025,Tuesday,New,Desserts,Rasgulla,3,143,430,UPI,No,2,Bad,February,2025,Tuesday
+ORD0635,28-10-2024,Monday,Returning,South Indian,Idli Sambar,1,182,182,Card,No,3,Bad,October,2024,Monday
+ORD0637,27-01-2025,Monday,Returning,Beverages,Masala Chai,3,140,420,Card,No,2,Bad,January,2025,Monday
+ORD0638,12-11-2024,Tuesday,Returning,Desserts,Gulab Jamun,1,255,255,Cash,No,1,Excellent,November,2024,Tuesday
+ORD0639,08-02-2025,Saturday,New,Desserts,Rasgulla,5,126,631,Cash,No,4,Okay,February,2025,Saturday
+ORD0640,16-02-2025,Sunday,Returning,South Indian,Masala Dosa,5,265,1326,UPI,No,3,Bad,February,2025,Sunday
+ORD0641,19-11-2024,Tuesday,Returning,South Indian,Idli Sambar,1,201,201,UPI,No,5,Good,November,2024,Tuesday
+ORD0642,31-12-2024,Tuesday,New,Beverages,Masala Chai,4,69,278,Cash,No,2,Excellent,December,2024,Tuesday
+ORD0643,18-03-2025,Tuesday,New,Beverages,Masala Chai,4,111,446,Cash,Yes,5,Bad,March,2025,Tuesday
+ORD0644,15-03-2025,Saturday,Returning,South Indian,Masala Dosa,1,244,244,UPI,Yes,4,Very Good,March,2025,Saturday
+ORD0645,10-01-2025,Friday,New,North Indian,Dal Makhani,5,110,553,Card,No,4,Okay,January,2025,Friday
+ORD0646,05-03-2025,Wednesday,Returning,Chinese,Manchurian,5,221,1109,Card,No,5,Excellent,March,2025,Wednesday
+ORD0647,21-02-2025,Friday,Returning,North Indian,Butter Naan,4,216,866,UPI,No,2,Okay,February,2025,Friday
+ORD0651,27-12-2024,Friday,Returning,South Indian,Uttapam,4,118,473,Cash,No,1,Okay,December,2024,Friday
+ORD0652,27-12-2024,Friday,Returning,North Indian,Dal Makhani,5,166,834,UPI,Yes,3,Bad,December,2024,Friday
+ORD0653,26-02-2025,Wednesday,Returning,North Indian,Dal Makhani,2,255,510,Card,No,4,Very Good,February,2025,Wednesday
+ORD0654,08-12-2024,Sunday,Returning,North Indian,Butter Naan,3,170,510,Card,No,1,Good,December,2024,Sunday
+ORD0655,13-02-2025,Thursday,Returning,North Indian,Dal Makhani,5,247,1236,Card,Yes,2,Good,February,2025,Thursday
+ORD0656,09-03-2025,Sunday,Returning,Beverages,Lassi,2,180,361,UPI,No,4,Excellent,March,2025,Sunday
+ORD0657,07-12-2024,Saturday,Returning,Chinese,Spring Roll,5,217,1086,Cash,No,1,Very Good,December,2024,Saturday
+ORD0659,12-11-2024,Tuesday,New,North Indian,Paneer Butter Masala,5,237,1186,UPI,No,2,Good,November,2024,Tuesday
+ORD0660,08-11-2024,Friday,New,South Indian,Idli Sambar,4,224,899,Card,No,5,Excellent,November,2024,Friday
+ORD0663,22-11-2024,Friday,New,South Indian,Idli Sambar,3,60,182,Card,No,4,Good,November,2024,Friday
+ORD0664,14-12-2024,Saturday,Returning,Desserts,Ice Cream,2,220,441,Cash,No,2,Okay,December,2024,Saturday
+ORD0665,16-01-2025,Thursday,New,North Indian,Paneer Butter Masala,5,153,767,UPI,No,3,Very Good,January,2025,Thursday
+ORD0666,26-11-2024,Tuesday,Returning,North Indian,Paneer Butter Masala,4,254,1018,Cash,No,3,Okay,November,2024,Tuesday
+ORD0667,26-12-2024,Thursday,Returning,North Indian,Paneer Butter Masala,5,50,253,UPI,Yes,4,Bad,December,2024,Thursday
+ORD0668,06-12-2024,Friday,New,North Indian,Chole Bhature,1,88,88,Cash,Yes,3,Good,December,2024,Friday
+ORD0669,09-02-2025,Sunday,New,Desserts,Ice Cream,3,73,219,Card,Yes,1,Excellent,February,2025,Sunday
+ORD0670,16-12-2024,Monday,Returning,Chinese,Fried Rice,3,189,568,Cash,No,1,Okay,December,2024,Monday
+ORD0671,18-02-2025,Tuesday,New,South Indian,Masala Dosa,5,61,305,UPI,Yes,5,Bad,February,2025,Tuesday
+ORD0672,30-03-2025,Sunday,Returning,South Indian,Uttapam,5,256,1280,Cash,No,5,Okay,March,2025,Sunday
+ORD0673,05-12-2024,Thursday,New,South Indian,Idli Sambar,3,248,744,UPI,No,5,Very Good,December,2024,Thursday
+ORD0674,05-04-2025,Saturday,Returning,North Indian,Butter Naan,4,122,488,Cash,Yes,4,Good,April,2025,Saturday
+ORD0675,11-11-2024,Monday,New,Chinese,Manchurian,5,293,1468,Cash,Yes,4,Okay,November,2024,Monday
+ORD0676,09-01-2025,Thursday,Returning,North Indian,Butter Naan,4,157,629,UPI,Yes,3,Good,January,2025,Thursday
+ORD0678,02-01-2025,Thursday,New,Desserts,Gulab Jamun,3,212,636,Cash,Yes,5,Excellent,January,2025,Thursday
+ORD0679,06-11-2024,Wednesday,New,Beverages,Masala Chai,4,54,216,Card,Yes,5,Okay,November,2024,Wednesday
+ORD0680,21-10-2024,Monday,New,South Indian,Vada,4,69,279,Card,No,4,Bad,October,2024,Monday
+ORD0682,03-02-2025,Monday,New,North Indian,Paneer Butter Masala,3,108,325,Cash,No,3,Bad,February,2025,Monday
+ORD0683,22-03-2025,Saturday,Returning,Chinese,Manchurian,5,161,809,Cash,Yes,1,Very Good,March,2025,Saturday
+ORD0684,04-01-2025,Saturday,Returning,North Indian,Paneer Butter Masala,4,127,511,Card,Yes,2,Very Good,January,2025,Saturday
+ORD0685,02-03-2025,Sunday,New,Chinese,Manchurian,5,297,1487,Card,Yes,5,Excellent,March,2025,Sunday
+ORD0686,24-03-2025,Monday,New,South Indian,Masala Dosa,4,138,552,Card,No,5,Very Good,March,2025,Monday
+ORD0687,16-01-2025,Thursday,New,Beverages,Masala Chai,1,209,209,Card,No,1,Very Good,January,2025,Thursday
+ORD0688,03-02-2025,Monday,New,North Indian,Chole Bhature,4,192,770,Cash,Yes,3,Excellent,February,2025,Monday
+ORD0689,26-11-2024,Tuesday,New,North Indian,Chole Bhature,3,182,548,Card,Yes,3,Very Good,November,2024,Tuesday
+ORD0690,22-02-2025,Saturday,Returning,Beverages,Lassi,3,213,639,Card,Yes,1,Bad,February,2025,Saturday
+ORD0691,26-02-2025,Wednesday,New,Chinese,Manchurian,1,135,135,Card,Yes,1,Good,February,2025,Wednesday
+ORD0692,09-12-2024,Monday,New,North Indian,Paneer Butter Masala,2,211,423,Card,No,5,Okay,December,2024,Monday
+ORD0693,09-03-2025,Sunday,New,Desserts,Gulab Jamun,1,216,216,Cash,No,1,Okay,March,2025,Sunday
+ORD0697,02-02-2025,Sunday,New,Desserts,Gulab Jamun,1,89,89,Cash,No,3,Good,February,2025,Sunday
+ORD0699,14-11-2024,Thursday,New,Desserts,Ice Cream,5,219,1097,Card,No,1,Very Good,November,2024,Thursday
+ORD0700,30-03-2025,Sunday,New,North Indian,Dal Makhani,5,228,1144,Cash,No,1,Okay,March,2025,Sunday
+ORD0702,16-11-2024,Saturday,Returning,Desserts,Gulab Jamun,2,65,130,UPI,Yes,5,Very Good,November,2024,Saturday
+ORD0704,23-10-2024,Wednesday,Returning,Desserts,Rasgulla,1,265,265,Cash,No,2,Okay,October,2024,Wednesday
+ORD0705,02-02-2025,Sunday,New,South Indian,Masala Dosa,5,137,686,Card,No,2,Excellent,February,2025,Sunday
+ORD0706,30-12-2024,Monday,New,Desserts,Ice Cream,5,128,644,Cash,Yes,4,Very Good,December,2024,Monday
+ORD0707,08-11-2024,Friday,New,North Indian,Dal Makhani,4,251,1004,UPI,Yes,5,Okay,November,2024,Friday
+ORD0708,05-01-2025,Sunday,New,South Indian,Masala Dosa,2,81,163,UPI,No,1,Good,January,2025,Sunday
+ORD0709,18-11-2024,Monday,New,South Indian,Vada,5,201,1009,Cash,Yes,5,Okay,November,2024,Monday
+ORD0710,04-02-2025,Tuesday,Returning,Beverages,Lassi,4,95,383,Cash,Yes,1,Good,February,2025,Tuesday
+ORD0711,07-02-2025,Friday,New,North Indian,Chole Bhature,2,178,357,Cash,Yes,5,Good,February,2025,Friday
+ORD0712,01-03-2025,Saturday,New,Desserts,Gulab Jamun,3,159,477,UPI,No,4,Excellent,March,2025,Saturday
+ORD0713,16-12-2024,Monday,Returning,Desserts,Gulab Jamun,4,175,701,Card,Yes,4,Excellent,December,2024,Monday
+ORD0714,04-03-2025,Tuesday,New,South Indian,Vada,1,285,285,Cash,No,3,Excellent,March,2025,Tuesday
+ORD0716,22-12-2024,Sunday,Returning,Chinese,Veg Noodles,2,77,154,Card,No,3,Okay,December,2024,Sunday
+ORD0717,08-02-2025,Saturday,New,South Indian,Uttapam,4,142,571,Cash,Yes,1,Good,February,2025,Saturday
+ORD0719,21-11-2024,Thursday,New,North Indian,Butter Naan,1,75,75,Card,Yes,5,Okay,November,2024,Thursday
+ORD0721,19-02-2025,Wednesday,Returning,Desserts,Gulab Jamun,3,281,845,Card,No,3,Very Good,February,2025,Wednesday
+ORD0722,05-11-2024,Tuesday,New,Desserts,Ice Cream,3,250,750,Cash,Yes,3,Very Good,November,2024,Tuesday
+ORD0723,19-10-2024,Saturday,New,Beverages,Cold Drink,3,256,768,Cash,Yes,5,Good,October,2024,Saturday
+ORD0724,12-10-2024,Saturday,New,Desserts,Rasgulla,2,63,126,Cash,No,3,Okay,October,2024,Saturday
+ORD0725,07-02-2025,Friday,New,Chinese,Spring Roll,1,144,144,Card,Yes,3,Very Good,February,2025,Friday
+ORD0726,18-10-2024,Friday,Returning,Beverages,Lassi,5,73,368,Card,Yes,5,Good,October,2024,Friday
+ORD0728,28-10-2024,Monday,Returning,North Indian,Paneer Butter Masala,2,236,472,Cash,No,4,Okay,October,2024,Monday
+ORD0729,13-03-2025,Thursday,Returning,Chinese,Fried Rice,4,133,535,Card,Yes,2,Good,March,2025,Thursday
+ORD0731,17-12-2024,Tuesday,Returning,North Indian,Chole Bhature,3,225,676,Card,Yes,4,Very Good,December,2024,Tuesday
+ORD0732,24-11-2024,Sunday,New,Chinese,Veg Noodles,4,254,1018,Cash,No,2,Okay,November,2024,Sunday
+ORD0733,14-10-2024,Monday,Returning,North Indian,Paneer Butter Masala,4,112,448,UPI,Yes,2,Very Good,October,2024,Monday
+ORD0735,15-11-2024,Friday,New,Desserts,Ice Cream,5,62,311,Cash,Yes,2,Excellent,November,2024,Friday
+ORD0736,14-11-2024,Thursday,New,North Indian,Dal Makhani,2,257,514,Cash,Yes,5,Bad,November,2024,Thursday
+ORD0737,06-04-2025,Sunday,Returning,Chinese,Manchurian,5,128,641,Cash,No,3,Bad,April,2025,Sunday
+ORD0738,16-12-2024,Monday,New,Desserts,Gulab Jamun,2,270,540,Card,No,3,Bad,December,2024,Monday
+ORD0739,04-01-2025,Saturday,New,Desserts,Kheer,1,67,67,Cash,No,2,Good,January,2025,Saturday
+ORD0740,20-03-2025,Thursday,New,Desserts,Gulab Jamun,4,269,1077,Card,No,3,Bad,March,2025,Thursday
+ORD0741,13-11-2024,Wednesday,New,South Indian,Uttapam,1,171,171,UPI,Yes,5,Excellent,November,2024,Wednesday
+ORD0742,03-03-2025,Monday,Returning,Desserts,Ice Cream,3,199,597,Card,No,5,Okay,March,2025,Monday
+ORD0743,09-11-2024,Saturday,New,Desserts,Gulab Jamun,5,135,675,Cash,No,3,Good,November,2024,Saturday
+ORD0744,11-01-2025,Saturday,New,Beverages,Cold Drink,3,71,213,Cash,Yes,4,Bad,January,2025,Saturday
+ORD0745,07-12-2024,Saturday,New,South Indian,Idli Sambar,3,188,565,Cash,No,4,Good,December,2024,Saturday
+ORD0746,30-01-2025,Thursday,Returning,Chinese,Veg Noodles,4,122,488,Card,Yes,3,Excellent,January,2025,Thursday
+ORD0747,16-02-2025,Sunday,Returning,Beverages,Coffee,2,223,446,UPI,Yes,5,Excellent,February,2025,Sunday
+ORD0748,31-10-2024,Thursday,Returning,Desserts,Kheer,4,203,815,Card,No,5,Very Good,October,2024,Thursday
+ORD0749,27-03-2025,Thursday,New,North Indian,Chole Bhature,3,62,187,UPI,No,2,Excellent,March,2025,Thursday
+ORD0750,07-11-2024,Thursday,New,Chinese,Fried Rice,3,191,573,Card,Yes,2,Good,November,2024,Thursday
+ORD0751,09-11-2024,Saturday,New,Chinese,Fried Rice,3,151,454,UPI,No,5,Bad,November,2024,Saturday
+ORD0752,16-01-2025,Thursday,New,Desserts,Rasgulla,3,272,816,Cash,No,5,Good,January,2025,Thursday
+ORD0753,07-01-2025,Tuesday,New,Beverages,Coffee,2,160,321,Card,No,2,Good,January,2025,Tuesday
+ORD0754,24-10-2024,Thursday,Returning,Chinese,Veg Noodles,5,98,492,UPI,No,2,Okay,October,2024,Thursday
+ORD0756,02-03-2025,Sunday,Returning,South Indian,Masala Dosa,5,142,710,Cash,Yes,5,Good,March,2025,Sunday
+ORD0757,04-03-2025,Tuesday,New,Chinese,Fried Rice,5,70,353,Cash,No,2,Very Good,March,2025,Tuesday
+ORD0758,05-03-2025,Wednesday,New,Chinese,Fried Rice,1,187,187,Cash,Yes,4,Very Good,March,2025,Wednesday
+ORD0759,27-11-2024,Wednesday,New,South Indian,Idli Sambar,2,117,234,Cash,Yes,5,Good,November,2024,Wednesday
+ORD0760,29-03-2025,Saturday,Returning,North Indian,Dal Makhani,5,252,1264,Card,Yes,2,Bad,March,2025,Saturday
+ORD0761,20-02-2025,Thursday,New,Desserts,Kheer,3,160,480,Card,No,3,Good,February,2025,Thursday
+ORD0762,19-02-2025,Wednesday,Returning,South Indian,Masala Dosa,3,80,242,Cash,Yes,3,Bad,February,2025,Wednesday
+ORD0764,20-11-2024,Wednesday,Returning,Beverages,Masala Chai,1,164,164,Card,Yes,3,Very Good,November,2024,Wednesday
+ORD0765,24-12-2024,Tuesday,New,North Indian,Paneer Butter Masala,3,244,732,Card,No,5,Bad,December,2024,Tuesday
+ORD0766,13-12-2024,Friday,New,Chinese,Manchurian,1,72,72,UPI,No,5,Okay,December,2024,Friday
+ORD0767,14-02-2025,Friday,Returning,Beverages,Coffee,2,71,143,UPI,Yes,3,Excellent,February,2025,Friday
+ORD0770,29-11-2024,Friday,Returning,South Indian,Idli Sambar,4,98,393,Card,Yes,3,Excellent,November,2024,Friday
+ORD0771,29-03-2025,Saturday,Returning,South Indian,Idli Sambar,1,204,204,Card,No,5,Excellent,March,2025,Saturday
+ORD0772,13-11-2024,Wednesday,New,Chinese,Manchurian,4,72,290,Card,Yes,3,Okay,November,2024,Wednesday
+ORD0773,12-10-2024,Saturday,Returning,Desserts,Kheer,1,294,294,Cash,No,3,Excellent,October,2024,Saturday
+ORD0776,04-12-2024,Wednesday,Returning,North Indian,Chole Bhature,5,197,989,Card,No,1,Bad,December,2024,Wednesday
+ORD0777,29-03-2025,Saturday,Returning,North Indian,Dal Makhani,4,266,1067,Card,No,2,Very Good,March,2025,Saturday
+ORD0778,24-10-2024,Thursday,New,Beverages,Cold Drink,5,292,1461,Cash,No,4,Bad,October,2024,Thursday
+ORD0779,31-01-2025,Friday,Returning,Desserts,Kheer,5,159,798,UPI,No,3,Good,January,2025,Friday
+ORD0780,21-10-2024,Monday,New,Chinese,Spring Roll,5,252,1260,Cash,No,1,Very Good,October,2024,Monday
+ORD0781,09-11-2024,Saturday,New,South Indian,Vada,1,200,200,Cash,No,3,Very Good,November,2024,Saturday
+ORD0782,06-11-2024,Wednesday,Returning,Chinese,Manchurian,1,269,269,Cash,Yes,1,Okay,November,2024,Wednesday
+ORD0783,29-01-2025,Wednesday,Returning,North Indian,Chole Bhature,2,279,559,Cash,Yes,1,Okay,January,2025,Wednesday
+ORD0784,23-10-2024,Wednesday,New,Chinese,Veg Noodles,5,85,426,Cash,Yes,4,Okay,October,2024,Wednesday
+ORD0785,11-11-2024,Monday,New,Chinese,Spring Roll,2,171,343,UPI,No,1,Okay,November,2024,Monday
+ORD0786,10-02-2025,Monday,Returning,North Indian,Paneer Butter Masala,3,85,256,UPI,Yes,3,Excellent,February,2025,Monday
+ORD0787,17-12-2024,Tuesday,Returning,Chinese,Fried Rice,4,118,475,Card,No,3,Good,December,2024,Tuesday
+ORD0788,06-01-2025,Monday,Returning,Desserts,Gulab Jamun,3,217,652,UPI,Yes,3,Good,January,2025,Monday
+ORD0789,20-02-2025,Thursday,Returning,Desserts,Rasgulla,3,103,310,Cash,Yes,3,Good,February,2025,Thursday
+ORD0790,11-02-2025,Tuesday,New,Chinese,Veg Noodles,3,272,816,UPI,No,5,Bad,February,2025,Tuesday
+ORD0791,17-02-2025,Monday,Returning,Chinese,Manchurian,4,244,976,Cash,Yes,5,Okay,February,2025,Monday
+ORD0792,28-12-2024,Saturday,Returning,North Indian,Dal Makhani,3,163,491,Cash,No,1,Very Good,December,2024,Saturday
+ORD0793,11-10-2024,Friday,Returning,Desserts,Kheer,5,253,1267,Card,Yes,3,Okay,October,2024,Friday
+ORD0795,21-03-2025,Friday,Returning,Beverages,Cold Drink,4,251,1005,Card,No,4,Good,March,2025,Friday
+ORD0796,26-10-2024,Saturday,New,Desserts,Ice Cream,4,62,250,Card,No,5,Good,October,2024,Saturday
+ORD0797,10-03-2025,Monday,Returning,North Indian,Dal Makhani,3,210,630,Card,No,2,Excellent,March,2025,Monday
+ORD0798,26-01-2025,Sunday,Returning,Desserts,Kheer,5,173,865,UPI,Yes,5,Okay,January,2025,Sunday
+ORD0799,27-11-2024,Wednesday,New,North Indian,Dal Makhani,3,217,652,Card,No,1,Good,November,2024,Wednesday
+ORD0800,13-03-2025,Thursday,Returning,Chinese,Veg Noodles,4,263,1054,Card,Yes,2,Good,March,2025,Thursday
+ORD0801,23-11-2024,Saturday,New,Chinese,Manchurian,4,200,802,Cash,Yes,1,Very Good,November,2024,Saturday
+ORD0802,11-01-2025,Saturday,Returning,Beverages,Masala Chai,1,116,116,Card,Yes,1,Okay,January,2025,Saturday
+ORD0803,10-03-2025,Monday,Returning,Chinese,Spring Roll,5,110,552,UPI,Yes,3,Bad,March,2025,Monday
+ORD0804,31-03-2025,Monday,Returning,Chinese,Fried Rice,3,270,810,Card,Yes,1,Very Good,March,2025,Monday
+ORD0806,05-02-2025,Wednesday,New,Desserts,Ice Cream,1,169,169,UPI,Yes,2,Excellent,February,2025,Wednesday
+ORD0807,13-01-2025,Monday,New,North Indian,Butter Naan,3,74,222,Cash,No,4,Bad,January,2025,Monday
+ORD0808,14-10-2024,Monday,New,South Indian,Idli Sambar,1,277,277,Cash,Yes,2,Bad,October,2024,Monday
+ORD0809,10-11-2024,Sunday,Returning,Desserts,Gulab Jamun,2,90,181,Card,No,2,Good,November,2024,Sunday
+ORD0810,24-02-2025,Monday,Returning,Desserts,Ice Cream,2,141,282,Card,No,2,Very Good,February,2025,Monday
+ORD0812,09-03-2025,Sunday,Returning,North Indian,Paneer Butter Masala,4,95,382,UPI,No,5,Bad,March,2025,Sunday
+ORD0813,11-11-2024,Monday,New,Desserts,Kheer,1,196,196,UPI,Yes,3,Excellent,November,2024,Monday
+ORD0814,06-04-2025,Sunday,Returning,North Indian,Butter Naan,4,165,663,UPI,Yes,2,Very Good,April,2025,Sunday
+ORD0817,24-12-2024,Tuesday,Returning,North Indian,Chole Bhature,2,265,530,Card,Yes,4,Very Good,December,2024,Tuesday
+ORD0818,08-03-2025,Saturday,New,Desserts,Kheer,4,73,293,UPI,Yes,3,Okay,March,2025,Saturday
+ORD0819,12-01-2025,Sunday,Returning,South Indian,Vada,5,93,467,UPI,Yes,4,Bad,January,2025,Sunday
+ORD0820,15-02-2025,Saturday,Returning,North Indian,Dal Makhani,3,190,572,UPI,No,1,Bad,February,2025,Saturday
+ORD0821,11-02-2025,Tuesday,New,Desserts,Rasgulla,3,264,794,UPI,No,5,Very Good,February,2025,Tuesday
+ORD0822,05-03-2025,Wednesday,Returning,Desserts,Rasgulla,5,222,1114,Card,Yes,2,Bad,March,2025,Wednesday
+ORD0823,12-10-2024,Saturday,Returning,Desserts,Rasgulla,5,153,765,Cash,No,4,Bad,October,2024,Saturday
+ORD0824,19-03-2025,Wednesday,Returning,Desserts,Gulab Jamun,2,181,362,Cash,Yes,5,Excellent,March,2025,Wednesday
+ORD0826,26-01-2025,Sunday,Returning,North Indian,Dal Makhani,4,113,452,Cash,No,4,Okay,January,2025,Sunday
+ORD0827,01-11-2024,Friday,New,South Indian,Uttapam,4,197,790,UPI,No,5,Very Good,November,2024,Friday
+ORD0828,08-12-2024,Sunday,Returning,Beverages,Lassi,5,106,533,Cash,Yes,5,Okay,December,2024,Sunday
+ORD0829,29-03-2025,Saturday,Returning,Chinese,Veg Noodles,1,196,196,UPI,Yes,3,Bad,March,2025,Saturday
+ORD0830,01-11-2024,Friday,New,North Indian,Butter Naan,4,285,1141,Cash,No,1,Excellent,November,2024,Friday
+ORD0831,02-01-2025,Thursday,Returning,Beverages,Cold Drink,3,183,550,Card,Yes,3,Okay,January,2025,Thursday
+ORD0832,07-11-2024,Thursday,New,North Indian,Dal Makhani,5,88,444,Cash,Yes,4,Okay,November,2024,Thursday
+ORD0833,02-01-2025,Thursday,New,Beverages,Masala Chai,5,226,1130,Card,Yes,2,Bad,January,2025,Thursday
+ORD0834,01-11-2024,Friday,New,North Indian,Paneer Butter Masala,2,152,304,UPI,Yes,1,Good,November,2024,Friday
+ORD0835,19-03-2025,Wednesday,Returning,Desserts,Gulab Jamun,1,282,282,Cash,Yes,3,Okay,March,2025,Wednesday
+ORD0836,17-12-2024,Tuesday,New,Beverages,Lassi,4,207,829,Card,No,5,Very Good,December,2024,Tuesday
+ORD0837,03-02-2025,Monday,New,Chinese,Veg Noodles,4,286,1144,UPI,Yes,2,Excellent,February,2025,Monday
+ORD0838,03-11-2024,Sunday,Returning,North Indian,Dal Makhani,4,299,1199,Card,Yes,4,Okay,November,2024,Sunday
+ORD0839,04-01-2025,Saturday,Returning,Chinese,Manchurian,3,201,605,UPI,Yes,3,Excellent,January,2025,Saturday
+ORD0840,08-11-2024,Friday,New,South Indian,Masala Dosa,1,125,125,UPI,No,3,Excellent,November,2024,Friday
+ORD0841,24-01-2025,Friday,New,Beverages,Cold Drink,4,185,743,Cash,No,3,Good,January,2025,Friday
+ORD0843,20-02-2025,Thursday,New,Desserts,Gulab Jamun,1,125,125,UPI,Yes,1,Good,February,2025,Thursday
+ORD0845,15-02-2025,Saturday,Returning,Chinese,Veg Noodles,5,134,673,UPI,No,1,Very Good,February,2025,Saturday
+ORD0846,17-10-2024,Thursday,Returning,Beverages,Cold Drink,4,52,211,Card,Yes,4,Very Good,October,2024,Thursday
+ORD0847,04-03-2025,Tuesday,Returning,Beverages,Lassi,5,78,391,Cash,No,5,Very Good,March,2025,Tuesday
+ORD0848,28-12-2024,Saturday,New,North Indian,Chole Bhature,4,127,508,Card,No,3,Excellent,December,2024,Saturday
+ORD0849,28-12-2024,Saturday,Returning,Desserts,Kheer,4,155,622,Cash,No,3,Very Good,December,2024,Saturday
+ORD0850,05-01-2025,Sunday,Returning,South Indian,Vada,5,60,304,Cash,Yes,4,Bad,January,2025,Sunday
+ORD0851,25-10-2024,Friday,New,North Indian,Paneer Butter Masala,1,220,220,Cash,No,2,Bad,October,2024,Friday
+ORD0852,16-03-2025,Sunday,Returning,South Indian,Masala Dosa,3,132,397,UPI,Yes,3,Bad,March,2025,Sunday
+ORD0853,19-01-2025,Sunday,Returning,North Indian,Butter Naan,1,203,203,Card,No,1,Okay,January,2025,Sunday
+ORD0854,08-12-2024,Sunday,New,North Indian,Dal Makhani,4,133,533,UPI,No,4,Okay,December,2024,Sunday
+ORD0855,02-02-2025,Sunday,Returning,Beverages,Coffee,4,146,586,UPI,Yes,2,Bad,February,2025,Sunday
+ORD0856,08-01-2025,Wednesday,New,North Indian,Chole Bhature,3,94,283,Card,No,5,Bad,January,2025,Wednesday
+ORD0857,05-04-2025,Saturday,New,Beverages,Coffee,3,295,885,UPI,No,3,Bad,April,2025,Saturday
+ORD0858,23-12-2024,Monday,Returning,Desserts,Ice Cream,2,186,373,Cash,No,2,Okay,December,2024,Monday
+ORD0859,18-12-2024,Wednesday,Returning,Chinese,Veg Noodles,5,103,518,Card,No,1,Okay,December,2024,Wednesday
+ORD0860,30-01-2025,Thursday,New,South Indian,Idli Sambar,3,287,862,Card,Yes,4,Okay,January,2025,Thursday
+ORD0861,13-12-2024,Friday,New,Beverages,Lassi,3,243,730,Card,Yes,1,Okay,December,2024,Friday
+ORD0862,21-03-2025,Friday,New,Chinese,Fried Rice,2,55,110,Card,Yes,1,Bad,March,2025,Friday
+ORD0863,25-03-2025,Tuesday,New,Beverages,Coffee,5,227,1137,Card,Yes,5,Very Good,March,2025,Tuesday
+ORD0864,30-12-2024,Monday,New,South Indian,Uttapam,2,155,310,Cash,Yes,5,Very Good,December,2024,Monday
+ORD0865,28-03-2025,Friday,Returning,South Indian,Uttapam,3,82,248,Card,Yes,2,Good,March,2025,Friday
+ORD0866,12-02-2025,Wednesday,New,Desserts,Gulab Jamun,2,94,189,Cash,No,1,Okay,February,2025,Wednesday
+ORD0867,21-12-2024,Saturday,New,South Indian,Uttapam,4,288,1154,UPI,Yes,5,Very Good,December,2024,Saturday
+ORD0868,15-12-2024,Sunday,Returning,South Indian,Uttapam,3,291,874,Card,Yes,5,Good,December,2024,Sunday
+ORD0869,25-02-2025,Tuesday,New,Desserts,Kheer,4,222,891,UPI,Yes,4,Okay,February,2025,Tuesday
+ORD0870,29-03-2025,Saturday,Returning,Chinese,Manchurian,2,202,404,Cash,Yes,1,Okay,March,2025,Saturday
+ORD0872,29-01-2025,Wednesday,New,Desserts,Ice Cream,4,54,218,Card,Yes,2,Bad,January,2025,Wednesday
+ORD0873,22-02-2025,Saturday,New,Chinese,Veg Noodles,1,60,60,Card,Yes,3,Good,February,2025,Saturday
+ORD0874,17-01-2025,Friday,New,South Indian,Uttapam,2,83,166,Cash,Yes,1,Bad,January,2025,Friday
+ORD0875,20-03-2025,Thursday,Returning,Beverages,Lassi,1,159,159,UPI,No,4,Bad,March,2025,Thursday
+ORD0876,25-01-2025,Saturday,Returning,Beverages,Cold Drink,5,125,629,UPI,Yes,3,Okay,January,2025,Saturday
+ORD0877,14-12-2024,Saturday,Returning,South Indian,Idli Sambar,3,203,611,Card,No,1,Excellent,December,2024,Saturday
+ORD0878,06-03-2025,Thursday,New,North Indian,Paneer Butter Masala,3,155,467,Card,No,4,Good,March,2025,Thursday
+ORD0879,21-02-2025,Friday,New,North Indian,Butter Naan,3,184,552,Cash,Yes,3,Bad,February,2025,Friday
+ORD0880,31-10-2024,Thursday,New,Desserts,Ice Cream,5,224,1121,Cash,Yes,5,Bad,October,2024,Thursday
+ORD0882,06-12-2024,Friday,Returning,North Indian,Dal Makhani,1,145,145,Card,Yes,3,Very Good,December,2024,Friday
+ORD0883,22-10-2024,Tuesday,Returning,North Indian,Chole Bhature,2,251,502,Cash,Yes,5,Good,October,2024,Tuesday
+ORD0884,15-02-2025,Saturday,Returning,Beverages,Masala Chai,2,286,572,UPI,No,3,Very Good,February,2025,Saturday
+ORD0885,06-12-2024,Friday,New,North Indian,Butter Naan,2,169,339,UPI,No,2,Excellent,December,2024,Friday
+ORD0886,17-10-2024,Thursday,New,South Indian,Uttapam,2,200,400,Card,No,3,Okay,October,2024,Thursday
+ORD0888,14-12-2024,Saturday,New,South Indian,Masala Dosa,2,150,301,UPI,No,2,Good,December,2024,Saturday
+ORD0889,16-01-2025,Thursday,Returning,Chinese,Fried Rice,2,281,562,UPI,Yes,3,Excellent,January,2025,Thursday
+ORD0890,17-12-2024,Tuesday,Returning,Chinese,Manchurian,5,145,727,UPI,No,4,Very Good,December,2024,Tuesday
+ORD0891,21-01-2025,Tuesday,Returning,North Indian,Dal Makhani,3,190,570,UPI,Yes,5,Bad,January,2025,Tuesday
+ORD0893,21-11-2024,Thursday,New,North Indian,Dal Makhani,3,204,612,Card,Yes,1,Very Good,November,2024,Thursday
+ORD0894,07-03-2025,Friday,Returning,Desserts,Gulab Jamun,2,254,509,UPI,No,5,Good,March,2025,Friday
+ORD0895,25-10-2024,Friday,Returning,Desserts,Kheer,4,253,1013,Cash,No,4,Very Good,October,2024,Friday
+ORD0896,19-01-2025,Sunday,Returning,Desserts,Gulab Jamun,3,282,848,UPI,Yes,3,Okay,January,2025,Sunday
+ORD0897,27-02-2025,Thursday,New,Beverages,Lassi,4,82,329,Card,Yes,5,Very Good,February,2025,Thursday
+ORD0898,26-12-2024,Thursday,New,Chinese,Manchurian,4,117,468,UPI,No,1,Good,December,2024,Thursday
+ORD0899,01-04-2025,Tuesday,New,Desserts,Gulab Jamun,5,101,508,UPI,No,3,Good,April,2025,Tuesday
+ORD0901,21-10-2024,Monday,New,Desserts,Ice Cream,1,141,141,Cash,No,5,Very Good,October,2024,Monday
+ORD0902,17-03-2025,Monday,New,Chinese,Spring Roll,2,246,493,Card,No,1,Excellent,March,2025,Monday
+ORD0903,12-12-2024,Thursday,Returning,Chinese,Spring Roll,5,140,702,UPI,No,4,Very Good,December,2024,Thursday
+ORD0905,19-12-2024,Thursday,Returning,North Indian,Paneer Butter Masala,1,296,296,Card,No,2,Good,December,2024,Thursday
+ORD0906,15-03-2025,Saturday,New,Beverages,Cold Drink,3,156,468,Cash,Yes,5,Okay,March,2025,Saturday
+ORD0907,07-04-2025,Monday,New,Desserts,Kheer,4,272,1090,Cash,Yes,3,Good,April,2025,Monday
+ORD0908,10-11-2024,Sunday,New,Chinese,Veg Noodles,4,283,1132,UPI,No,1,Excellent,November,2024,Sunday
+ORD0909,09-01-2025,Thursday,New,Chinese,Manchurian,5,200,1004,Cash,No,5,Very Good,January,2025,Thursday
+ORD0910,04-12-2024,Wednesday,New,Beverages,Cold Drink,5,241,1206,Cash,No,2,Bad,December,2024,Wednesday
+ORD0911,18-12-2024,Wednesday,New,Beverages,Masala Chai,4,63,253,Cash,No,5,Good,December,2024,Wednesday
+ORD0913,12-12-2024,Thursday,Returning,South Indian,Uttapam,3,81,245,UPI,Yes,2,Okay,December,2024,Thursday
+ORD0914,10-02-2025,Monday,New,Beverages,Masala Chai,2,75,151,Cash,Yes,5,Excellent,February,2025,Monday
+ORD0915,07-12-2024,Saturday,Returning,Chinese,Spring Roll,1,62,62,Card,No,1,Bad,December,2024,Saturday
+ORD0916,14-01-2025,Tuesday,New,Chinese,Fried Rice,2,216,432,Card,No,3,Bad,January,2025,Tuesday
+ORD0917,23-12-2024,Monday,New,Beverages,Masala Chai,2,248,497,UPI,No,2,Good,December,2024,Monday
+ORD0918,09-01-2025,Thursday,New,North Indian,Chole Bhature,5,115,575,UPI,No,1,Very Good,January,2025,Thursday
+ORD0920,27-10-2024,Sunday,Returning,South Indian,Uttapam,1,116,116,UPI,No,1,Excellent,October,2024,Sunday
+ORD0921,30-01-2025,Thursday,New,Beverages,Lassi,5,64,320,Cash,Yes,3,Excellent,January,2025,Thursday
+ORD0922,22-03-2025,Saturday,New,Chinese,Spring Roll,5,108,541,UPI,Yes,1,Okay,March,2025,Saturday
+ORD0924,07-04-2025,Monday,New,Chinese,Veg Noodles,4,81,327,Card,No,5,Okay,April,2025,Monday
+ORD0925,20-01-2025,Monday,New,Desserts,Kheer,4,193,773,Cash,No,4,Bad,January,2025,Monday
+ORD0926,08-03-2025,Saturday,New,North Indian,Chole Bhature,2,207,415,Card,Yes,3,Okay,March,2025,Saturday
+ORD0927,10-12-2024,Tuesday,Returning,Desserts,Rasgulla,3,165,497,UPI,Yes,1,Good,December,2024,Tuesday
+ORD0928,03-04-2025,Thursday,Returning,Desserts,Kheer,4,61,247,Cash,Yes,4,Good,April,2025,Thursday
+ORD0929,28-02-2025,Friday,Returning,Beverages,Masala Chai,4,51,206,Card,No,1,Bad,February,2025,Friday
+ORD0930,20-02-2025,Thursday,Returning,Desserts,Ice Cream,5,99,499,UPI,No,5,Good,February,2025,Thursday
+ORD0931,10-03-2025,Monday,Returning,Chinese,Manchurian,5,118,592,UPI,Yes,4,Good,March,2025,Monday
+ORD0933,30-01-2025,Thursday,New,Desserts,Gulab Jamun,5,270,1353,Card,No,3,Okay,January,2025,Thursday
+ORD0934,13-10-2024,Sunday,New,South Indian,Masala Dosa,1,260,260,UPI,Yes,3,Bad,October,2024,Sunday
+ORD0936,16-03-2025,Sunday,New,North Indian,Paneer Butter Masala,2,218,437,Card,Yes,2,Very Good,March,2025,Sunday
+ORD0937,18-12-2024,Wednesday,New,Chinese,Manchurian,5,112,562,Cash,No,4,Bad,December,2024,Wednesday
+ORD0938,10-01-2025,Friday,New,Beverages,Masala Chai,4,71,287,Cash,Yes,4,Excellent,January,2025,Friday
+ORD0939,03-04-2025,Thursday,Returning,Chinese,Manchurian,1,187,187,Card,No,5,Okay,April,2025,Thursday
+ORD0941,11-02-2025,Tuesday,New,Beverages,Cold Drink,3,99,298,Cash,Yes,2,Good,February,2025,Tuesday
+ORD0943,14-10-2024,Monday,Returning,Beverages,Coffee,1,220,220,Card,Yes,3,Bad,October,2024,Monday
+ORD0944,09-12-2024,Monday,Returning,Beverages,Cold Drink,2,129,258,UPI,No,3,Bad,December,2024,Monday
+ORD0948,16-10-2024,Wednesday,New,South Indian,Masala Dosa,4,282,1131,Card,Yes,4,Bad,October,2024,Wednesday
+ORD0949,22-02-2025,Saturday,New,Beverages,Coffee,5,226,1133,Cash,Yes,3,Okay,February,2025,Saturday
+ORD0950,02-11-2024,Saturday,Returning,Desserts,Kheer,3,88,266,UPI,Yes,2,Good,November,2024,Saturday
+ORD0951,04-02-2025,Tuesday,Returning,Desserts,Kheer,1,286,286,UPI,No,4,Excellent,February,2025,Tuesday
+ORD0952,01-12-2024,Sunday,Returning,South Indian,Idli Sambar,4,216,867,UPI,Yes,3,Excellent,December,2024,Sunday
+ORD0953,23-03-2025,Sunday,New,North Indian,Butter Naan,4,196,786,UPI,No,1,Okay,March,2025,Sunday
+ORD0954,13-11-2024,Wednesday,Returning,Desserts,Rasgulla,4,265,1062,Cash,No,4,Okay,November,2024,Wednesday
+ORD0955,09-11-2024,Saturday,New,Chinese,Veg Noodles,2,84,169,UPI,No,4,Okay,November,2024,Saturday
+ORD0956,08-12-2024,Sunday,New,Desserts,Kheer,3,213,639,Cash,Yes,1,Okay,December,2024,Sunday
+ORD0957,04-12-2024,Wednesday,Returning,Beverages,Masala Chai,3,295,885,Cash,No,3,Okay,December,2024,Wednesday
+ORD0958,17-10-2024,Thursday,Returning,South Indian,Vada,4,74,297,Cash,No,4,Good,October,2024,Thursday
+ORD0959,16-10-2024,Wednesday,Returning,South Indian,Uttapam,5,86,433,UPI,Yes,3,Bad,October,2024,Wednesday
+ORD0960,03-11-2024,Sunday,New,Desserts,Rasgulla,5,74,372,Card,Yes,5,Good,November,2024,Sunday
+ORD0962,01-03-2025,Saturday,New,Chinese,Fried Rice,3,290,870,Cash,No,2,Okay,March,2025,Saturday
+ORD0963,31-01-2025,Friday,Returning,South Indian,Vada,1,217,217,UPI,No,4,Excellent,January,2025,Friday
+ORD0964,22-12-2024,Sunday,Returning,Desserts,Ice Cream,4,54,217,Cash,No,2,Very Good,December,2024,Sunday
+ORD0966,06-03-2025,Thursday,Returning,North Indian,Dal Makhani,5,169,849,Card,Yes,4,Bad,March,2025,Thursday
+ORD0967,11-02-2025,Tuesday,Returning,Chinese,Manchurian,4,275,1102,UPI,Yes,3,Okay,February,2025,Tuesday
+ORD0969,26-11-2024,Tuesday,New,North Indian,Chole Bhature,3,62,187,UPI,Yes,2,Bad,November,2024,Tuesday
+ORD0971,26-10-2024,Saturday,Returning,South Indian,Uttapam,3,236,709,Card,No,4,Good,October,2024,Saturday
+ORD0972,21-01-2025,Tuesday,Returning,North Indian,Dal Makhani,2,70,141,Cash,No,3,Okay,January,2025,Tuesday
+ORD0973,09-03-2025,Sunday,New,Chinese,Spring Roll,5,236,1181,Card,Yes,2,Bad,March,2025,Sunday
+ORD0974,16-01-2025,Thursday,New,Beverages,Masala Chai,1,61,61,Cash,Yes,5,Very Good,January,2025,Thursday
+ORD0976,31-03-2025,Monday,New,South Indian,Uttapam,3,143,429,UPI,No,3,Excellent,March,2025,Monday
+ORD0977,02-03-2025,Sunday,Returning,Desserts,Kheer,4,220,880,Cash,No,4,Okay,March,2025,Sunday
+ORD0978,10-02-2025,Monday,Returning,North Indian,Chole Bhature,1,232,232,Cash,No,2,Bad,February,2025,Monday
+ORD0979,17-01-2025,Friday,New,Desserts,Kheer,5,224,1124,Card,No,2,Bad,January,2025,Friday
+ORD0981,03-11-2024,Sunday,Returning,Chinese,Spring Roll,1,290,290,Cash,No,3,Very Good,November,2024,Sunday
+ORD0982,04-01-2025,Saturday,New,Beverages,Lassi,2,126,253,Cash,Yes,2,Okay,January,2025,Saturday
+ORD0985,25-02-2025,Tuesday,New,Desserts,Kheer,3,197,591,UPI,No,4,Okay,February,2025,Tuesday
+ORD0986,24-03-2025,Monday,Returning,South Indian,Vada,4,62,248,UPI,No,4,Good,March,2025,Monday
+ORD0987,16-02-2025,Sunday,New,Beverages,Cold Drink,5,110,554,UPI,Yes,2,Excellent,February,2025,Sunday
+ORD0988,04-03-2025,Tuesday,Returning,South Indian,Uttapam,1,148,148,Card,Yes,3,Very Good,March,2025,Tuesday
+ORD0989,15-11-2024,Friday,New,North Indian,Dal Makhani,2,198,396,UPI,Yes,3,Good,November,2024,Friday
+ORD0990,01-01-2025,Wednesday,Returning,North Indian,Butter Naan,1,209,209,Card,Yes,5,Good,January,2025,Wednesday
+ORD0991,14-10-2024,Monday,New,North Indian,Butter Naan,2,244,488,Cash,No,3,Bad,October,2024,Monday
+ORD0992,23-12-2024,Monday,Returning,South Indian,Uttapam,1,223,223,UPI,Yes,1,Excellent,December,2024,Monday
+ORD0994,07-11-2024,Thursday,Returning,South Indian,Masala Dosa,4,119,477,UPI,No,5,Good,November,2024,Thursday
+ORD0995,09-10-2024,Wednesday,Returning,Chinese,Fried Rice,1,125,125,UPI,Yes,5,Excellent,October,2024,Wednesday
+ORD0996,15-03-2025,Saturday,New,South Indian,Uttapam,4,173,692,UPI,No,5,Okay,March,2025,Saturday
+ORD0999,23-03-2025,Sunday,Returning,South Indian,Uttapam,3,152,458,Cash,No,1,Very Good,March,2025,Sunday
+ORD1000,05-04-2025,Saturday,New,South Indian,Masala Dosa,3,63,189,Card,No,2,Good,April,2025,Saturday
